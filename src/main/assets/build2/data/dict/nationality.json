@@ -1,0 +1,7210 @@
+[
+	{
+		"national_id" : 1,
+		"national_parent_id" : null,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 1,
+		"national_name_ua" : "українці"
+	},
+	{
+		"national_id" : 51,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 2,
+		"national_name_ua" : "абадзехи"
+	},
+	{
+		"national_id" : 24,
+		"national_parent_id" : 23,
+		"national_group" : 23,
+		"national_language_id" : 2,
+		"national_print_order" : 3,
+		"national_name_ua" : "абаза"
+	},
+	{
+		"national_id" : 23,
+		"national_parent_id" : null,
+		"national_group" : 23,
+		"national_language_id" : 2,
+		"national_print_order" : 4,
+		"national_name_ua" : "абазини"
+	},
+	{
+		"national_id" : 29,
+		"national_parent_id" : 27,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 5,
+		"national_name_ua" : "абжуйці"
+	},
+	{
+		"national_id" : 27,
+		"national_parent_id" : null,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 6,
+		"national_name_ua" : "абхази"
+	},
+	{
+		"national_id" : 35,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 7,
+		"national_name_ua" : "аварал"
+	},
+	{
+		"national_id" : 33,
+		"national_parent_id" : null,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 8,
+		"national_name_ua" : "аварці"
+	},
+	{
+		"national_id" : 43,
+		"national_parent_id" : null,
+		"national_group" : 43,
+		"national_language_id" : 17,
+		"national_print_order" : 9,
+		"national_name_ua" : "австралійці"
+	},
+	{
+		"national_id" : 45,
+		"national_parent_id" : null,
+		"national_group" : 45,
+		"national_language_id" : 223,
+		"national_print_order" : 10,
+		"national_name_ua" : "австрійці"
+	},
+	{
+		"national_id" : 97,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 11,
+		"national_name_ua" : "агаряни"
+	},
+	{
+		"national_id" : 48,
+		"national_parent_id" : 47,
+		"national_group" : 47,
+		"national_language_id" : 5,
+		"national_print_order" : 12,
+		"national_name_ua" : "агул"
+	},
+	{
+		"national_id" : 47,
+		"national_parent_id" : null,
+		"national_group" : 47,
+		"national_language_id" : 5,
+		"national_print_order" : 13,
+		"national_name_ua" : "агули"
+	},
+	{
+		"national_id" : 312,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 14,
+		"national_name_ua" : "адай"
+	},
+	{
+		"national_id" : 203,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 15,
+		"national_name_ua" : "аджарці"
+	},
+	{
+		"national_id" : 50,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 16,
+		"national_name_ua" : "адиге"
+	},
+	{
+		"national_id" : 308,
+		"national_parent_id" : 307,
+		"national_group" : 307,
+		"national_language_id" : 79,
+		"national_print_order" : 17,
+		"national_name_ua" : "адиге"
+	},
+	{
+		"national_id" : 853,
+		"national_parent_id" : 852,
+		"national_group" : 852,
+		"national_language_id" : 79,
+		"national_print_order" : 18,
+		"national_name_ua" : "адиге"
+	},
+	{
+		"national_id" : 49,
+		"national_parent_id" : null,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 19,
+		"national_name_ua" : "адигейці"
+	},
+	{
+		"national_id" : 59,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 20,
+		"national_name_ua" : "азейбайджанли"
+	},
+	{
+		"national_id" : 58,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 21,
+		"national_name_ua" : "азейбайджанлилар"
+	},
+	{
+		"national_id" : 57,
+		"national_parent_id" : null,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 22,
+		"national_name_ua" : "азербайджанці"
+	},
+	{
+		"national_id" : 60,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 23,
+		"national_name_ua" : "айрими"
+	},
+	{
+		"national_id" : 61,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 24,
+		"national_name_ua" : "айруми"
+	},
+	{
+		"national_id" : 122,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 25,
+		"national_name_ua" : "айсори"
+	},
+	{
+		"national_id" : 477,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 26,
+		"national_name_ua" : "акан"
+	},
+	{
+		"national_id" : 861,
+		"national_parent_id" : 859,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 27,
+		"national_name_ua" : "аккінці"
+	},
+	{
+		"national_id" : 624,
+		"national_parent_id" : 621,
+		"national_group" : 621,
+		"national_language_id" : 229,
+		"national_print_order" : 28,
+		"national_name_ua" : "алани"
+	},
+	{
+		"national_id" : 313,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 29,
+		"national_name_ua" : "албан"
+	},
+	{
+		"national_id" : 71,
+		"national_parent_id" : null,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 30,
+		"national_name_ua" : "албанці"
+	},
+	{
+		"national_id" : 80,
+		"national_parent_id" : 79,
+		"national_group" : 79,
+		"national_language_id" : 15,
+		"national_print_order" : 31,
+		"national_name_ua" : "алеут"
+	},
+	{
+		"national_id" : 79,
+		"national_parent_id" : null,
+		"national_group" : 79,
+		"national_language_id" : 15,
+		"national_print_order" : 32,
+		"national_name_ua" : "алеути"
+	},
+	{
+		"national_id" : 98,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 33,
+		"national_name_ua" : "алжирці"
+	},
+	{
+		"national_id" : 757,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 34,
+		"national_name_ua" : "алілі"
+	},
+	{
+		"national_id" : 593,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 35,
+		"national_name_ua" : "аллемани"
+	},
+	{
+		"national_id" : 83,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 36,
+		"national_name_ua" : "алтай-кіжі"
+	},
+	{
+		"national_id" : 82,
+		"national_parent_id" : null,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 37,
+		"national_name_ua" : "алтайці"
+	},
+	{
+		"national_id" : 96,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 38,
+		"national_name_ua" : "аль-араб"
+	},
+	{
+		"national_id" : 380,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 39,
+		"national_name_ua" : "алюторці"
+	},
+	{
+		"national_id" : 579,
+		"national_parent_id" : 577,
+		"national_group" : 577,
+		"national_language_id" : 219,
+		"national_print_order" : 40,
+		"national_name_ua" : "амгун бейнін"
+	},
+	{
+		"national_id" : 90,
+		"national_parent_id" : null,
+		"national_group" : 90,
+		"national_language_id" : 17,
+		"national_print_order" : 41,
+		"national_name_ua" : "американці"
+	},
+	{
+		"national_id" : 478,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 42,
+		"national_name_ua" : "амхара"
+	},
+	{
+		"national_id" : 874,
+		"national_parent_id" : 872,
+		"national_group" : 872,
+		"national_language_id" : 305,
+		"national_print_order" : 43,
+		"national_name_ua" : "анатрі"
+	},
+	{
+		"national_id" : 91,
+		"national_parent_id" : null,
+		"national_group" : 91,
+		"national_language_id" : 17,
+		"national_print_order" : 44,
+		"national_name_ua" : "англійці"
+	},
+	{
+		"national_id" : 479,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 45,
+		"national_name_ua" : "ангольці"
+	},
+	{
+		"national_id" : 36,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 46,
+		"national_name_ua" : "андійці"
+	},
+	{
+		"national_id" : 758,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 47,
+		"national_name_ua" : "аневлі"
+	},
+	{
+		"national_id" : 878,
+		"national_parent_id" : 876,
+		"national_group" : 876,
+		"national_language_id" : 306,
+		"national_print_order" : 48,
+		"national_name_ua" : "анкалин"
+	},
+	{
+		"national_id" : 28,
+		"national_parent_id" : 27,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 49,
+		"national_name_ua" : "апсуа"
+	},
+	{
+		"national_id" : 99,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 50,
+		"national_name_ua" : "араби"
+	},
+	{
+		"national_id" : 100,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 51,
+		"national_name_ua" : "араби Об'єднаних Арабських Еміратів"
+	},
+	{
+		"national_id" : 95,
+		"national_parent_id" : null,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 52,
+		"national_name_ua" : "арабські народи"
+	},
+	{
+		"national_id" : 123,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 53,
+		"national_name_ua" : "арамей"
+	},
+	{
+		"national_id" : 74,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 54,
+		"national_name_ua" : "арбереші"
+	},
+	{
+		"national_id" : 75,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 55,
+		"national_name_ua" : "арваніти"
+	},
+	{
+		"national_id" : 120,
+		"national_parent_id" : 119,
+		"national_group" : 119,
+		"national_language_id" : 76,
+		"national_print_order" : 56,
+		"national_name_ua" : "аргентинос"
+	},
+	{
+		"national_id" : 119,
+		"national_parent_id" : null,
+		"national_group" : 119,
+		"national_language_id" : 76,
+		"national_print_order" : 57,
+		"national_name_ua" : "аргентинці"
+	},
+	{
+		"national_id" : 314,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 58,
+		"national_name_ua" : "аргин"
+	},
+	{
+		"national_id" : 76,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 59,
+		"national_name_ua" : "арнаути"
+	},
+	{
+		"national_id" : 759,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 60,
+		"national_name_ua" : "арсари"
+	},
+	{
+		"national_id" : 37,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 61,
+		"national_name_ua" : "арчинці"
+	},
+	{
+		"national_id" : 543,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 62,
+		"national_name_ua" : "ассамці"
+	},
+	{
+		"national_id" : 121,
+		"national_parent_id" : null,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 63,
+		"national_name_ua" : "ассирійці"
+	},
+	{
+		"national_id" : 760,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 64,
+		"national_name_ua" : "ата"
+	},
+	{
+		"national_id" : 124,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 65,
+		"national_name_ua" : "атурая"
+	},
+	{
+		"national_id" : 427,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 66,
+		"national_name_ua" : "аукшайти"
+	},
+	{
+		"national_id" : 862,
+		"national_parent_id" : 859,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 67,
+		"national_name_ua" : "ауховці"
+	},
+	{
+		"national_id" : 129,
+		"national_parent_id" : null,
+		"national_group" : 129,
+		"national_language_id" : 24,
+		"national_print_order" : 68,
+		"national_name_ua" : "афганці"
+	},
+	{
+		"national_id" : 480,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 69,
+		"national_name_ua" : "африканери"
+	},
+	{
+		"national_id" : 62,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 70,
+		"national_name_ua" : "афшари"
+	},
+	{
+		"national_id" : 38,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 71,
+		"national_name_ua" : "ахвахці"
+	},
+	{
+		"national_id" : 481,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 72,
+		"national_name_ua" : "ашанти"
+	},
+	{
+		"national_id" : 265,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 73,
+		"national_name_ua" : "ашкенази"
+	},
+	{
+		"national_id" : 26,
+		"national_parent_id" : 23,
+		"national_group" : 23,
+		"national_language_id" : 2,
+		"national_print_order" : 74,
+		"national_name_ua" : "ашхаруа"
+	},
+	{
+		"national_id" : 156,
+		"national_parent_id" : 154,
+		"national_group" : 154,
+		"national_language_id" : 30,
+		"national_print_order" : 75,
+		"national_name_ua" : "баарят"
+	},
+	{
+		"national_id" : 594,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 76,
+		"national_name_ua" : "баварці"
+	},
+	{
+		"national_id" : 686,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 77,
+		"national_name_ua" : "баджувці"
+	},
+	{
+		"national_id" : 297,
+		"national_parent_id" : 293,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 78,
+		"national_name_ua" : "балійці"
+	},
+	{
+		"national_id" : 132,
+		"national_parent_id" : null,
+		"national_group" : 132,
+		"national_language_id" : 87,
+		"national_print_order" : 79,
+		"national_name_ua" : "балкарці"
+	},
+	{
+		"national_id" : 544,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 80,
+		"national_name_ua" : "балуч"
+	},
+	{
+		"national_id" : 482,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 81,
+		"national_name_ua" : "бамбара"
+	},
+	{
+		"national_id" : 483,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 82,
+		"national_name_ua" : "бамілеке"
+	},
+	{
+		"national_id" : 545,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 83,
+		"national_name_ua" : "бангладешці"
+	},
+	{
+		"national_id" : 687,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 84,
+		"national_name_ua" : "барвозці"
+	},
+	{
+		"national_id" : 802,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 85,
+		"national_name_ua" : "барлас"
+	},
+	{
+		"national_id" : 688,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 86,
+		"national_name_ua" : "бартангці"
+	},
+	{
+		"national_id" : 101,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 87,
+		"national_name_ua" : "бахрейнці"
+	},
+	{
+		"national_id" : 135,
+		"national_parent_id" : null,
+		"national_group" : 135,
+		"national_language_id" : 26,
+		"national_print_order" : 88,
+		"national_name_ua" : "башкири"
+	},
+	{
+		"national_id" : 136,
+		"national_parent_id" : 135,
+		"national_group" : 135,
+		"national_language_id" : 26,
+		"national_print_order" : 89,
+		"national_name_ua" : "башкорт"
+	},
+	{
+		"national_id" : 137,
+		"national_parent_id" : 135,
+		"national_group" : 135,
+		"national_language_id" : 26,
+		"national_print_order" : 90,
+		"national_name_ua" : "башкурт"
+	},
+	{
+		"national_id" : 580,
+		"national_parent_id" : 577,
+		"national_group" : 577,
+		"national_language_id" : 219,
+		"national_print_order" : 91,
+		"national_name_ua" : "бейеннін"
+	},
+	{
+		"national_id" : 546,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 92,
+		"national_name_ua" : "белуджі"
+	},
+	{
+		"national_id" : 163,
+		"national_parent_id" : 162,
+		"national_group" : 162,
+		"national_language_id" : 296,
+		"national_print_order" : 93,
+		"national_name_ua" : "бельгійці"
+	},
+	{
+		"national_id" : 832,
+		"national_parent_id" : 830,
+		"national_group" : 830,
+		"national_language_id" : 36,
+		"national_print_order" : 94,
+		"national_name_ua" : "бельгійці"
+	},
+	{
+		"national_id" : 547,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 95,
+		"national_name_ua" : "бенгальці"
+	},
+	{
+		"national_id" : 484,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 96,
+		"national_name_ua" : "бенінці"
+	},
+	{
+		"national_id" : 168,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 97,
+		"national_name_ua" : "бепслаажед"
+	},
+	{
+		"national_id" : 167,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 98,
+		"national_name_ua" : "бепся"
+	},
+	{
+		"national_id" : 796,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 99,
+		"national_name_ua" : "бесермяни"
+	},
+	{
+		"national_id" : 854,
+		"national_parent_id" : 852,
+		"national_group" : 852,
+		"national_language_id" : 79,
+		"national_print_order" : 100,
+		"national_name_ua" : "бесленеї"
+	},
+	{
+		"national_id" : 39,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 101,
+		"national_name_ua" : "бештинці"
+	},
+	{
+		"national_id" : 140,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 102,
+		"national_name_ua" : "бєларуси"
+	},
+	{
+		"national_id" : 52,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 103,
+		"national_name_ua" : "бжедуги"
+	},
+	{
+		"national_id" : 30,
+		"national_parent_id" : 27,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 104,
+		"national_name_ua" : "бзибці"
+	},
+	{
+		"national_id" : 139,
+		"national_parent_id" : null,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 105,
+		"national_name_ua" : "білоруси"
+	},
+	{
+		"national_id" : 146,
+		"national_parent_id" : null,
+		"national_group" : 146,
+		"national_language_id" : 28,
+		"national_print_order" : 106,
+		"national_name_ua" : "бірманці"
+	},
+	{
+		"national_id" : 819,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 107,
+		"national_name_ua" : "бісайя"
+	},
+	{
+		"national_id" : 548,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 108,
+		"national_name_ua" : "біхарці"
+	},
+	{
+		"national_id" : 18,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 109,
+		"national_name_ua" : "бойки"
+	},
+	{
+		"national_id" : 147,
+		"national_parent_id" : null,
+		"national_group" : 147,
+		"national_language_id" : 29,
+		"national_print_order" : 110,
+		"national_name_ua" : "болгари"
+	},
+	{
+		"national_id" : 315,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 111,
+		"national_name_ua" : "борш"
+	},
+	{
+		"national_id" : 316,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 112,
+		"national_name_ua" : "боскалмак"
+	},
+	{
+		"national_id" : 148,
+		"national_parent_id" : null,
+		"national_group" : 148,
+		"national_language_id" : 258,
+		"national_print_order" : 113,
+		"national_name_ua" : "боснійці"
+	},
+	{
+		"national_id" : 150,
+		"national_parent_id" : 148,
+		"national_group" : 148,
+		"national_language_id" : 258,
+		"national_print_order" : 114,
+		"national_name_ua" : "босняки"
+	},
+	{
+		"national_id" : 485,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 115,
+		"national_name_ua" : "ботсванці"
+	},
+	{
+		"national_id" : 149,
+		"national_parent_id" : 148,
+		"national_group" : 148,
+		"national_language_id" : 258,
+		"national_print_order" : 116,
+		"national_name_ua" : "бошняки"
+	},
+	{
+		"national_id" : 549,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 117,
+		"national_name_ua" : "брагуї"
+	},
+	{
+		"national_id" : 152,
+		"national_parent_id" : null,
+		"national_group" : 152,
+		"national_language_id" : 243,
+		"national_print_order" : 118,
+		"national_name_ua" : "бразильці"
+	},
+	{
+		"national_id" : 153,
+		"national_parent_id" : 152,
+		"national_group" : 152,
+		"national_language_id" : 243,
+		"national_print_order" : 119,
+		"national_name_ua" : "бразільєнуш"
+	},
+	{
+		"national_id" : 141,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 120,
+		"national_name_ua" : "брещуки"
+	},
+	{
+		"national_id" : 93,
+		"national_parent_id" : 91,
+		"national_group" : 91,
+		"national_language_id" : 17,
+		"national_print_order" : 121,
+		"national_name_ua" : "британці"
+	},
+	{
+		"national_id" : 2,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 122,
+		"national_name_ua" : "буковинці"
+	},
+	{
+		"national_id" : 848,
+		"national_parent_id" : 846,
+		"national_group" : 846,
+		"national_language_id" : 258,
+		"national_print_order" : 123,
+		"national_name_ua" : "бунєвці"
+	},
+	{
+		"national_id" : 486,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 124,
+		"national_name_ua" : "бури"
+	},
+	{
+		"national_id" : 487,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 125,
+		"national_name_ua" : "буркінійці (буркінабе)"
+	},
+	{
+		"national_id" : 157,
+		"national_parent_id" : 154,
+		"national_group" : 154,
+		"national_language_id" : 30,
+		"national_print_order" : 126,
+		"national_name_ua" : "буряад"
+	},
+	{
+		"national_id" : 155,
+		"national_parent_id" : 154,
+		"national_group" : 154,
+		"national_language_id" : 30,
+		"national_print_order" : 127,
+		"national_name_ua" : "бурят"
+	},
+	{
+		"national_id" : 154,
+		"national_parent_id" : null,
+		"national_group" : 154,
+		"national_language_id" : 30,
+		"national_print_order" : 128,
+		"national_name_ua" : "буряти"
+	},
+	{
+		"national_id" : 279,
+		"national_parent_id" : 276,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 129,
+		"national_name_ua" : "бухарські євреї"
+	},
+	{
+		"national_id" : 550,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 130,
+		"national_name_ua" : "бхіли"
+	},
+	{
+		"national_id" : 161,
+		"national_parent_id" : 159,
+		"national_group" : 159,
+		"national_language_id" : 31,
+		"national_print_order" : 131,
+		"national_name_ua" : "в'єт"
+	},
+	{
+		"national_id" : 159,
+		"national_parent_id" : null,
+		"national_group" : 159,
+		"national_language_id" : 31,
+		"national_print_order" : 132,
+		"national_name_ua" : "в’єтнамці"
+	},
+	{
+		"national_id" : 289,
+		"national_parent_id" : 285,
+		"national_group" : 285,
+		"national_language_id" : 65,
+		"national_print_order" : 133,
+		"national_name_ua" : "ваддялайсет"
+	},
+	{
+		"national_id" : 292,
+		"national_parent_id" : 290,
+		"national_group" : 290,
+		"national_language_id" : 67,
+		"national_print_order" : 134,
+		"national_name_ua" : "вайнахи"
+	},
+	{
+		"national_id" : 895,
+		"national_parent_id" : 892,
+		"national_group" : 892,
+		"national_language_id" : 309,
+		"national_print_order" : 134,
+		"national_name_ua" : "вадул"
+	},
+	{
+		"national_id" : 863,
+		"national_parent_id" : 859,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 135,
+		"national_name_ua" : "вайнахи"
+	},
+	{
+		"national_id" : 94,
+		"national_parent_id" : 91,
+		"national_group" : 91,
+		"national_language_id" : 17,
+		"national_print_order" : 137,
+		"national_name_ua" : "валійці"
+	},
+	{
+		"national_id" : 162,
+		"national_parent_id" : null,
+		"national_group" : 162,
+		"national_language_id" : 296,
+		"national_print_order" : 138,
+		"national_name_ua" : "валлони"
+	},
+	{
+		"national_id" : 797,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 139,
+		"national_name_ua" : "ватка"
+	},
+	{
+		"national_id" : 689,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 140,
+		"national_name_ua" : "ваханці"
+	},
+	{
+		"national_id" : 165,
+		"national_parent_id" : 164,
+		"national_group" : 164,
+		"national_language_id" : 76,
+		"national_print_order" : 141,
+		"national_name_ua" : "венесолано"
+	},
+	{
+		"national_id" : 164,
+		"national_parent_id" : null,
+		"national_group" : 164,
+		"national_language_id" : 76,
+		"national_print_order" : 142,
+		"national_name_ua" : "венесуельці"
+	},
+	{
+		"national_id" : 166,
+		"national_parent_id" : null,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 143,
+		"national_name_ua" : "вепси"
+	},
+	{
+		"national_id" : 169,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 144,
+		"national_name_ua" : "вепсляйжед"
+	},
+	{
+		"national_id" : 170,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 145,
+		"national_name_ua" : "вепсь"
+	},
+	{
+		"national_id" : 171,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 146,
+		"national_name_ua" : "вепся"
+	},
+	{
+		"national_id" : 19,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 147,
+		"national_name_ua" : "верховинці"
+	},
+	{
+		"national_id" : 875,
+		"national_parent_id" : 872,
+		"national_group" : 872,
+		"national_language_id" : 305,
+		"national_print_order" : 148,
+		"national_name_ua" : "вір'ял"
+	},
+	{
+		"national_id" : 174,
+		"national_parent_id" : null,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 149,
+		"national_name_ua" : "вірмени"
+	},
+	{
+		"national_id" : 820,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 150,
+		"national_name_ua" : "вісайя"
+	},
+	{
+		"national_id" : 449,
+		"national_parent_id" : 447,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 151,
+		"national_name_ua" : "вогули"
+	},
+	{
+		"national_id" : 450,
+		"national_parent_id" : 447,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 152,
+		"national_name_ua" : "вогуличі"
+	},
+	{
+		"national_id" : 288,
+		"national_parent_id" : 285,
+		"national_group" : 285,
+		"national_language_id" : 65,
+		"national_print_order" : 153,
+		"national_name_ua" : "водь"
+	},
+	{
+		"national_id" : 595,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 154,
+		"national_name_ua" : "волгадойче"
+	},
+	{
+		"national_id" : 3,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 155,
+		"national_name_ua" : "волиняни"
+	},
+	{
+		"national_id" : 488,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 156,
+		"national_name_ua" : "волоф"
+	},
+	{
+		"national_id" : 464,
+		"national_parent_id" : 462,
+		"national_group" : 462,
+		"national_language_id" : 211,
+		"national_print_order" : 157,
+		"national_name_ua" : "волохи"
+	},
+	{
+		"national_id" : 798,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 158,
+		"national_name_ua" : "вотяки"
+	},
+	{
+		"national_id" : 204,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 159,
+		"national_name_ua" : "враці"
+	},
+	{
+		"national_id" : 489,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 160,
+		"national_name_ua" : "габонці"
+	},
+	{
+		"national_id" : 184,
+		"national_parent_id" : null,
+		"national_group" : 184,
+		"national_language_id" : 35,
+		"national_print_order" : 161,
+		"national_name_ua" : "гагаузи"
+	},
+	{
+		"national_id" : 175,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 162,
+		"national_name_ua" : "гай"
+	},
+	{
+		"national_id" : 291,
+		"national_parent_id" : 290,
+		"national_group" : 290,
+		"national_language_id" : 67,
+		"national_print_order" : 163,
+		"national_name_ua" : "галгаї"
+	},
+	{
+		"national_id" : 4,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 164,
+		"national_name_ua" : "галичани"
+	},
+	{
+		"national_id" : 490,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 165,
+		"national_name_ua" : "гамбійці"
+	},
+	{
+		"national_id" : 761,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 166,
+		"national_name_ua" : "гандири"
+	},
+	{
+		"national_id" : 491,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 167,
+		"national_name_ua" : "ганці"
+	},
+	{
+		"national_id" : 492,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 168,
+		"national_name_ua" : "гвінейці"
+	},
+	{
+		"national_id" : 77,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 169,
+		"national_name_ua" : "геги"
+	},
+	{
+		"national_id" : 884,
+		"national_parent_id" : 883,
+		"national_group" : 883,
+		"national_language_id" : 223,
+		"national_print_order" : 170,
+		"national_name_ua" : "германо-швейцарці"
+	},
+	{
+		"national_id" : 596,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 171,
+		"national_name_ua" : "германці"
+	},
+	{
+		"national_id" : 588,
+		"national_parent_id" : 586,
+		"national_group" : 586,
+		"national_language_id" : 221,
+		"national_print_order" : 172,
+		"national_name_ua" : "гіляки"
+	},
+	{
+		"national_id" : 571,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 173,
+		"national_name_ua" : "гінді"
+	},
+	{
+		"national_id" : 572,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 174,
+		"national_name_ua" : "гіндустанці"
+	},
+	{
+		"national_id" : 428,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 175,
+		"national_name_ua" : "гіргітунас"
+	},
+	{
+		"national_id" : 406,
+		"national_parent_id" : 403,
+		"national_group" : 403,
+		"national_language_id" : 109,
+		"national_print_order" : 176,
+		"national_name_ua" : "гірські кхмери"
+	},
+	{
+		"national_id" : 455,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 177,
+		"national_name_ua" : "гірські марійці"
+	},
+	{
+		"national_id" : 186,
+		"national_parent_id" : 185,
+		"national_group" : 185,
+		"national_language_id" : 36,
+		"national_print_order" : 178,
+		"national_name_ua" : "голандерс"
+	},
+	{
+		"national_id" : 185,
+		"national_parent_id" : null,
+		"national_group" : 185,
+		"national_language_id" : 36,
+		"national_print_order" : 179,
+		"national_name_ua" : "голландці"
+	},
+	{
+		"national_id" : 474,
+		"national_parent_id" : 472,
+		"national_group" : 472,
+		"national_language_id" : 217,
+		"national_print_order" : 180,
+		"national_name_ua" : "гольди"
+	},
+	{
+		"national_id" : 762,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 181,
+		"national_name_ua" : "гонклени"
+	},
+	{
+		"national_id" : 690,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 182,
+		"national_name_ua" : "горонці"
+	},
+	{
+		"national_id" : 649,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 183,
+		"national_name_ua" : "горюни"
+	},
+	{
+		"national_id" : 597,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 184,
+		"national_name_ua" : "готи"
+	},
+	{
+		"national_id" : 188,
+		"national_parent_id" : null,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 185,
+		"national_name_ua" : "греки"
+	},
+	{
+		"national_id" : 197,
+		"national_parent_id" : null,
+		"national_group" : 197,
+		"national_language_id" : 39,
+		"national_print_order" : 186,
+		"national_name_ua" : "греки-кіпріоти"
+	},
+	{
+		"national_id" : 191,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 187,
+		"national_name_ua" : "греки-румеї"
+	},
+	{
+		"national_id" : 192,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 188,
+		"national_name_ua" : "греки-уруми"
+	},
+	{
+		"national_id" : 200,
+		"national_parent_id" : null,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 189,
+		"national_name_ua" : "грузини"
+	},
+	{
+		"national_id" : 31,
+		"national_parent_id" : 27,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 190,
+		"national_name_ua" : "гудаутці"
+	},
+	{
+		"national_id" : 551,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 191,
+		"national_name_ua" : "гуджаратці"
+	},
+	{
+		"national_id" : 691,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 192,
+		"national_name_ua" : "гундці"
+	},
+	{
+		"national_id" : 40,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 193,
+		"national_name_ua" : "гунзибці"
+	},
+	{
+		"national_id" : 635,
+		"national_parent_id" : 633,
+		"national_group" : 633,
+		"national_language_id" : 241,
+		"national_print_order" : 194,
+		"national_name_ua" : "гуралі"
+	},
+	{
+		"national_id" : 205,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 195,
+		"national_name_ua" : "гурійці"
+	},
+	{
+		"national_id" : 20,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 196,
+		"national_name_ua" : "гуцули"
+	},
+	{
+		"national_id" : 272,
+		"national_parent_id" : 270,
+		"national_group" : 270,
+		"national_language_id" : 276,
+		"national_print_order" : 197,
+		"national_name_ua" : "дагестанські євреї"
+	},
+	{
+		"national_id" : 225,
+		"national_parent_id" : 224,
+		"national_group" : 224,
+		"national_language_id" : 50,
+		"national_print_order" : 198,
+		"national_name_ua" : "данскере"
+	},
+	{
+		"national_id" : 224,
+		"national_parent_id" : null,
+		"national_group" : 224,
+		"national_language_id" : 50,
+		"national_print_order" : 199,
+		"national_name_ua" : "данці"
+	},
+	{
+		"national_id" : 692,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 200,
+		"national_name_ua" : "дарвози"
+	},
+	{
+		"national_id" : 227,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 201,
+		"national_name_ua" : "дарган"
+	},
+	{
+		"national_id" : 228,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 202,
+		"national_name_ua" : "дарганті"
+	},
+	{
+		"national_id" : 229,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 203,
+		"national_name_ua" : "даргва"
+	},
+	{
+		"national_id" : 230,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 204,
+		"national_name_ua" : "даргиляр"
+	},
+	{
+		"national_id" : 226,
+		"national_parent_id" : null,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 205,
+		"national_name_ua" : "даргинці"
+	},
+	{
+		"national_id" : 231,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 206,
+		"national_name_ua" : "даргіял"
+	},
+	{
+		"national_id" : 598,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 207,
+		"national_name_ua" : "дейтше"
+	},
+	{
+		"national_id" : 330,
+		"national_parent_id" : 328,
+		"national_group" : 328,
+		"national_language_id" : 84,
+		"national_print_order" : 208,
+		"national_name_ua" : "дербети"
+	},
+	{
+		"national_id" : 894,
+		"national_parent_id" : 892,
+		"national_group" : 892,
+		"national_language_id" : 309,
+		"national_print_order" : 209,
+		"national_name_ua" : "деткіль"
+	},
+	{
+		"national_id" : 693,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 210,
+		"national_name_ua" : "дехкан"
+	},
+	{
+		"national_id" : 206,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 211,
+		"national_name_ua" : "джавахи"
+	},
+	{
+		"national_id" : 281,
+		"national_parent_id" : 276,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 212,
+		"national_name_ua" : "джугут"
+	},
+	{
+		"national_id" : 273,
+		"national_parent_id" : 270,
+		"national_group" : 270,
+		"national_language_id" : 276,
+		"national_print_order" : 213,
+		"national_name_ua" : "джухут"
+	},
+	{
+		"national_id" : 429,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 214,
+		"national_name_ua" : "дзуки"
+	},
+	{
+		"national_id" : 625,
+		"national_parent_id" : 621,
+		"national_group" : 621,
+		"national_language_id" : 229,
+		"national_print_order" : 215,
+		"national_name_ua" : "дігорці"
+	},
+	{
+		"national_id" : 41,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 216,
+		"national_name_ua" : "дідойці"
+	},
+	{
+		"national_id" : 552,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 217,
+		"national_name_ua" : "догри"
+	},
+	{
+		"national_id" : 592,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 218,
+		"national_name_ua" : "дойче"
+	},
+	{
+		"national_id" : 235,
+		"national_parent_id" : 234,
+		"national_group" : 234,
+		"national_language_id" : 53,
+		"national_print_order" : 219,
+		"national_name_ua" : "долган"
+	},
+	{
+		"national_id" : 234,
+		"national_parent_id" : null,
+		"national_group" : 234,
+		"national_language_id" : 53,
+		"national_print_order" : 220,
+		"national_name_ua" : "долгани"
+	},
+	{
+		"national_id" : 317,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 221,
+		"national_name_ua" : "дулат"
+	},
+	{
+		"national_id" : 239,
+		"national_parent_id" : 238,
+		"national_group" : 238,
+		"national_language_id" : 54,
+		"national_print_order" : 222,
+		"national_name_ua" : "дунган"
+	},
+	{
+		"national_id" : 238,
+		"national_parent_id" : null,
+		"national_group" : 238,
+		"national_language_id" : 54,
+		"national_print_order" : 223,
+		"national_name_ua" : "дунгани"
+	},
+	{
+		"national_id" : 275,
+		"national_parent_id" : 274,
+		"national_group" : 274,
+		"national_language_id" : 45,
+		"national_print_order" : 224,
+		"national_name_ua" : "ебраелі"
+	},
+	{
+		"national_id" : 241,
+		"national_parent_id" : 240,
+		"national_group" : 240,
+		"national_language_id" : 57,
+		"national_print_order" : 225,
+		"national_name_ua" : "евен"
+	},
+	{
+		"national_id" : 246,
+		"national_parent_id" : 245,
+		"national_group" : 245,
+		"national_language_id" : 55,
+		"national_print_order" : 226,
+		"national_name_ua" : "евен"
+	},
+	{
+		"national_id" : 240,
+		"national_parent_id" : null,
+		"national_group" : 240,
+		"national_language_id" : 57,
+		"national_print_order" : 227,
+		"national_name_ua" : "евени"
+	},
+	{
+		"national_id" : 245,
+		"national_parent_id" : null,
+		"national_group" : 245,
+		"national_language_id" : 55,
+		"national_print_order" : 228,
+		"national_name_ua" : "евенки"
+	},
+	{
+		"national_id" : 247,
+		"national_parent_id" : 245,
+		"national_group" : 245,
+		"national_language_id" : 55,
+		"national_print_order" : 229,
+		"national_name_ua" : "евенкил"
+	},
+	{
+		"national_id" : 257,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 230,
+		"national_name_ua" : "еестлани"
+	},
+	{
+		"national_id" : 256,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 231,
+		"national_name_ua" : "еестласед"
+	},
+	{
+		"national_id" : 249,
+		"national_parent_id" : null,
+		"national_group" : 249,
+		"national_language_id" : 76,
+		"national_print_order" : 232,
+		"national_name_ua" : "еквадорці"
+	},
+	{
+		"national_id" : 250,
+		"national_parent_id" : 249,
+		"national_group" : 249,
+		"national_language_id" : 76,
+		"national_print_order" : 233,
+		"national_name_ua" : "екуаторіано"
+	},
+	{
+		"national_id" : 189,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 234,
+		"national_name_ua" : "еллінес"
+	},
+	{
+		"national_id" : 190,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 235,
+		"national_name_ua" : "елліни"
+	},
+	{
+		"national_id" : 198,
+		"national_parent_id" : 197,
+		"national_group" : 197,
+		"national_language_id" : 39,
+		"national_print_order" : 236,
+		"national_name_ua" : "еллінокіпріо"
+	},
+	{
+		"national_id" : 581,
+		"national_parent_id" : 577,
+		"national_group" : 577,
+		"national_language_id" : 219,
+		"national_print_order" : 237,
+		"national_name_ua" : "елькан бейнін"
+	},
+	{
+		"national_id" : 763,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 238,
+		"national_name_ua" : "емрелі"
+	},
+	{
+		"national_id" : 252,
+		"national_parent_id" : 251,
+		"national_group" : 251,
+		"national_language_id" : 59,
+		"national_print_order" : 239,
+		"national_name_ua" : "еннече"
+	},
+	{
+		"national_id" : 251,
+		"national_parent_id" : null,
+		"national_group" : 251,
+		"national_language_id" : 59,
+		"national_print_order" : 240,
+		"national_name_ua" : "енці"
+	},
+	{
+		"national_id" : 468,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 241,
+		"national_name_ua" : "ерзя"
+	},
+	{
+		"national_id" : 493,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 242,
+		"national_name_ua" : "еритрійці"
+	},
+	{
+		"national_id" : 300,
+		"national_parent_id" : 299,
+		"national_group" : 299,
+		"national_language_id" : 74,
+		"national_print_order" : 243,
+		"national_name_ua" : "еррінах"
+	},
+	{
+		"national_id" : 764,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 244,
+		"national_name_ua" : "ерсари"
+	},
+	{
+		"national_id" : 253,
+		"national_parent_id" : null,
+		"national_group" : 253,
+		"national_language_id" : 60,
+		"national_print_order" : 245,
+		"national_name_ua" : "ескімоси"
+	},
+	{
+		"national_id" : 302,
+		"national_parent_id" : 301,
+		"national_group" : 301,
+		"national_language_id" : 76,
+		"national_print_order" : 246,
+		"national_name_ua" : "еспаньолес"
+	},
+	{
+		"national_id" : 46,
+		"national_parent_id" : 45,
+		"national_group" : 45,
+		"national_language_id" : 223,
+		"national_print_order" : 247,
+		"national_name_ua" : "естеррайхер"
+	},
+	{
+		"national_id" : 258,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 248,
+		"national_name_ua" : "ести"
+	},
+	{
+		"national_id" : 255,
+		"national_parent_id" : null,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 249,
+		"national_name_ua" : "естонці"
+	},
+	{
+		"national_id" : 870,
+		"national_parent_id" : 869,
+		"national_group" : 869,
+		"national_language_id" : 304,
+		"national_print_order" : 250,
+		"national_name_ua" : "етелі"
+	},
+	{
+		"national_id" : 871,
+		"national_parent_id" : 869,
+		"national_group" : 869,
+		"national_language_id" : 304,
+		"national_print_order" : 251,
+		"national_name_ua" : "етельїт"
+	},
+	{
+		"national_id" : 494,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 252,
+		"national_name_ua" : "ефіопи"
+	},
+	{
+		"national_id" : 262,
+		"national_parent_id" : null,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 253,
+		"national_name_ua" : "євреї"
+	},
+	{
+		"national_id" : 270,
+		"national_parent_id" : null,
+		"national_group" : 270,
+		"national_language_id" : 276,
+		"national_print_order" : 254,
+		"national_name_ua" : "євреї гірські"
+	},
+	{
+		"national_id" : 274,
+		"national_parent_id" : null,
+		"national_group" : 274,
+		"national_language_id" : 45,
+		"national_print_order" : 255,
+		"national_name_ua" : "євреї грузинські"
+	},
+	{
+		"national_id" : 276,
+		"national_parent_id" : null,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 256,
+		"national_name_ua" : "євреї середньоазійські"
+	},
+	{
+		"national_id" : 102,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 257,
+		"national_name_ua" : "єгиптяни"
+	},
+	{
+		"national_id" : 282,
+		"national_parent_id" : null,
+		"national_group" : 282,
+		"national_language_id" : 107,
+		"national_print_order" : 258,
+		"national_name_ua" : "єзиди"
+	},
+	{
+		"national_id" : 349,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 259,
+		"national_name_ua" : "єнісейські остяки"
+	},
+	{
+		"national_id" : 350,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 260,
+		"national_name_ua" : "єнісейці"
+	},
+	{
+		"national_id" : 318,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 261,
+		"national_name_ua" : "жагайбайли"
+	},
+	{
+		"national_id" : 430,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 262,
+		"national_name_ua" : "жагунас"
+	},
+	{
+		"national_id" : 319,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 263,
+		"national_name_ua" : "жаппас"
+	},
+	{
+		"national_id" : 431,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 264,
+		"national_name_ua" : "жемайти"
+	},
+	{
+		"national_id" : 432,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 265,
+		"national_name_ua" : "жмудь"
+	},
+	{
+		"national_id" : 5,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 266,
+		"national_name_ua" : "забужани"
+	},
+	{
+		"national_id" : 433,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 267,
+		"national_name_ua" : "зазнавикай"
+	},
+	{
+		"national_id" : 495,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 268,
+		"national_name_ua" : "замбійці"
+	},
+	{
+		"national_id" : 415,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 269,
+		"national_name_ua" : "земгали"
+	},
+	{
+		"national_id" : 370,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 270,
+		"national_name_ua" : "зиряни"
+	},
+	{
+		"national_id" : 496,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 271,
+		"national_name_ua" : "зімбабвійці"
+	},
+	{
+		"national_id" : 497,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 272,
+		"national_name_ua" : "зулуси"
+	},
+	{
+		"national_id" : 280,
+		"national_parent_id" : 276,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 273,
+		"national_name_ua" : "іврі"
+	},
+	{
+		"national_id" : 263,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 274,
+		"national_name_ua" : "ідн"
+	},
+	{
+		"national_id" : 283,
+		"national_parent_id" : 282,
+		"national_group" : 282,
+		"national_language_id" : 107,
+		"national_print_order" : 275,
+		"national_name_ua" : "ієзиди"
+	},
+	{
+		"national_id" : 287,
+		"national_parent_id" : 285,
+		"national_group" : 285,
+		"national_language_id" : 65,
+		"national_print_order" : 276,
+		"national_name_ua" : "іжора"
+	},
+	{
+		"national_id" : 286,
+		"national_parent_id" : 285,
+		"national_group" : 285,
+		"national_language_id" : 65,
+		"national_print_order" : 277,
+		"national_name_ua" : "іжораізур"
+	},
+	{
+		"national_id" : 285,
+		"national_parent_id" : null,
+		"national_group" : 285,
+		"national_language_id" : 65,
+		"national_print_order" : 278,
+		"national_name_ua" : "іжорці"
+	},
+	{
+		"national_id" : 267,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 279,
+		"national_name_ua" : "ізраїльтяни"
+	},
+	{
+		"national_id" : 824,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 280,
+		"national_name_ua" : "ілокано"
+	},
+	{
+		"national_id" : 823,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 281,
+		"national_name_ua" : "ілоки"
+	},
+	{
+		"national_id" : 207,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 282,
+		"national_name_ua" : "імеретини"
+	},
+	{
+		"national_id" : 828,
+		"national_parent_id" : 825,
+		"national_group" : 825,
+		"national_language_id" : 294,
+		"national_print_order" : 283,
+		"national_name_ua" : "інгерманландці"
+	},
+	{
+		"national_id" : 208,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 284,
+		"national_name_ua" : "інгілойці"
+	},
+	{
+		"national_id" : 92,
+		"national_parent_id" : 91,
+		"national_group" : 91,
+		"national_language_id" : 17,
+		"national_print_order" : 285,
+		"national_name_ua" : "інглиш"
+	},
+	{
+		"national_id" : 290,
+		"national_parent_id" : null,
+		"national_group" : 290,
+		"national_language_id" : 67,
+		"national_print_order" : 286,
+		"national_name_ua" : "інгуші"
+	},
+	{
+		"national_id" : 553,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 287,
+		"national_name_ua" : "індійці"
+	},
+	{
+		"national_id" : 284,
+		"national_parent_id" : 282,
+		"national_group" : 282,
+		"national_language_id" : 107,
+		"national_print_order" : 288,
+		"national_name_ua" : "індоіранці"
+	},
+	{
+		"national_id" : 293,
+		"national_parent_id" : null,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 289,
+		"national_name_ua" : "індонезійці"
+	},
+	{
+		"national_id" : 254,
+		"national_parent_id" : 253,
+		"national_group" : 253,
+		"national_language_id" : 60,
+		"national_print_order" : 290,
+		"national_name_ua" : "інуїт"
+	},
+	{
+		"national_id" : 765,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 291,
+		"national_name_ua" : "іомут"
+	},
+	{
+		"national_id" : 103,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 292,
+		"national_name_ua" : "іракці"
+	},
+	{
+		"national_id" : 628,
+		"national_parent_id" : 626,
+		"national_group" : 626,
+		"national_language_id" : 232,
+		"national_print_order" : 293,
+		"national_name_ua" : "ірані"
+	},
+	{
+		"national_id" : 629,
+		"national_parent_id" : 626,
+		"national_group" : 626,
+		"national_language_id" : 232,
+		"national_print_order" : 294,
+		"national_name_ua" : "іранці"
+	},
+	{
+		"national_id" : 299,
+		"national_parent_id" : null,
+		"national_group" : 299,
+		"national_language_id" : 74,
+		"national_print_order" : 295,
+		"national_name_ua" : "ірландці"
+	},
+	{
+		"national_id" : 622,
+		"national_parent_id" : 621,
+		"national_group" : 621,
+		"national_language_id" : 229,
+		"national_print_order" : 296,
+		"national_name_ua" : "ірон"
+	},
+	{
+		"national_id" : 623,
+		"national_parent_id" : 621,
+		"national_group" : 621,
+		"national_language_id" : 229,
+		"national_print_order" : 297,
+		"national_name_ua" : "іронці"
+	},
+	{
+		"national_id" : 694,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 298,
+		"national_name_ua" : "іскашимці"
+	},
+	{
+		"national_id" : 301,
+		"national_parent_id" : null,
+		"national_group" : 301,
+		"national_language_id" : 76,
+		"national_print_order" : 299,
+		"national_name_ua" : "іспанці"
+	},
+	{
+		"national_id" : 277,
+		"national_parent_id" : 276,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 300,
+		"national_name_ua" : "істроїл"
+	},
+	{
+		"national_id" : 304,
+		"national_parent_id" : 303,
+		"national_group" : 303,
+		"national_language_id" : 77,
+		"national_print_order" : 301,
+		"national_name_ua" : "італіані"
+	},
+	{
+		"national_id" : 303,
+		"national_parent_id" : null,
+		"national_group" : 303,
+		"national_language_id" : 77,
+		"national_print_order" : 302,
+		"national_name_ua" : "італійці"
+	},
+	{
+		"national_id" : 886,
+		"national_parent_id" : 883,
+		"national_group" : 883,
+		"national_language_id" : 77,
+		"national_print_order" : 303,
+		"national_name_ua" : "італо-швейцарці"
+	},
+	{
+		"national_id" : 305,
+		"national_parent_id" : null,
+		"national_group" : 305,
+		"national_language_id" : 78,
+		"national_print_order" : 304,
+		"national_name_ua" : "ітельмени"
+	},
+	{
+		"national_id" : 306,
+		"national_parent_id" : 305,
+		"national_group" : 305,
+		"national_language_id" : 78,
+		"national_print_order" : 305,
+		"national_name_ua" : "ітельмень"
+	},
+	{
+		"national_id" : 268,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 306,
+		"national_name_ua" : "іудеї"
+	},
+	{
+		"national_id" : 864,
+		"national_parent_id" : 859,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 307,
+		"national_name_ua" : "ічкерійці"
+	},
+	{
+		"national_id" : 264,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 308,
+		"national_name_ua" : "йєгудим"
+	},
+	{
+		"national_id" : 104,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 309,
+		"national_name_ua" : "йєменці"
+	},
+	{
+		"national_id" : 851,
+		"national_parent_id" : 850,
+		"national_group" : 850,
+		"national_language_id" : 301,
+		"national_print_order" : 310,
+		"national_name_ua" : "йихби"
+	},
+	{
+		"national_id" : 766,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 311,
+		"national_name_ua" : "йомдикарадасли"
+	},
+	{
+		"national_id" : 767,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 312,
+		"national_name_ua" : "йомуд"
+	},
+	{
+		"national_id" : 768,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 313,
+		"national_name_ua" : "йомут"
+	},
+	{
+		"national_id" : 105,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 314,
+		"national_name_ua" : "йорданці"
+	},
+	{
+		"national_id" : 498,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 315,
+		"national_name_ua" : "йоруба"
+	},
+	{
+		"national_id" : 309,
+		"national_parent_id" : 307,
+		"national_group" : 307,
+		"national_language_id" : 79,
+		"national_print_order" : 316,
+		"national_name_ua" : "кабардей"
+	},
+	{
+		"national_id" : 307,
+		"national_parent_id" : null,
+		"national_group" : 307,
+		"national_language_id" : 79,
+		"national_print_order" : 317,
+		"national_name_ua" : "кабардинці"
+	},
+	{
+		"national_id" : 499,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 318,
+		"national_name_ua" : "кабовердійці"
+	},
+	{
+		"national_id" : 311,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 319,
+		"national_name_ua" : "казах"
+	},
+	{
+		"national_id" : 310,
+		"national_parent_id" : null,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 320,
+		"national_name_ua" : "казахи"
+	},
+	{
+		"national_id" : 232,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 321,
+		"national_name_ua" : "кайтагці"
+	},
+	{
+		"national_id" : 443,
+		"national_parent_id" : 441,
+		"national_group" : 441,
+		"national_language_id" : 118,
+		"national_print_order" : 322,
+		"national_name_ua" : "каламієз"
+	},
+	{
+		"national_id" : 799,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 323,
+		"national_name_ua" : "калмєз"
+	},
+	{
+		"national_id" : 328,
+		"national_parent_id" : null,
+		"national_group" : 328,
+		"national_language_id" : 84,
+		"national_print_order" : 324,
+		"national_name_ua" : "калмики"
+	},
+	{
+		"national_id" : 405,
+		"national_parent_id" : 403,
+		"national_group" : 403,
+		"national_language_id" : 109,
+		"national_print_order" : 325,
+		"national_name_ua" : "камбоджійці"
+	},
+	{
+		"national_id" : 500,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 326,
+		"national_name_ua" : "камерунці"
+	},
+	{
+		"national_id" : 650,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 327,
+		"national_name_ua" : "камчадали"
+	},
+	{
+		"national_id" : 334,
+		"national_parent_id" : 333,
+		"national_group" : 333,
+		"national_language_id" : 17,
+		"national_print_order" : 328,
+		"national_name_ua" : "канадієн"
+	},
+	{
+		"national_id" : 333,
+		"national_parent_id" : null,
+		"national_group" : 333,
+		"national_language_id" : 17,
+		"national_print_order" : 329,
+		"national_name_ua" : "канадці"
+	},
+	{
+		"national_id" : 803,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 330,
+		"national_name_ua" : "кангли"
+	},
+	{
+		"national_id" : 554,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 331,
+		"national_name_ua" : "каннара"
+	},
+	{
+		"national_id" : 343,
+		"national_parent_id" : 341,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 332,
+		"national_name_ua" : "кар’яла"
+	},
+	{
+		"national_id" : 342,
+		"national_parent_id" : 341,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 333,
+		"national_name_ua" : "кар’ялайзет"
+	},
+	{
+		"national_id" : 344,
+		"national_parent_id" : 341,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 334,
+		"national_name_ua" : "кар’ялани"
+	},
+	{
+		"national_id" : 176,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 335,
+		"national_name_ua" : "карабаські вірмени"
+	},
+	{
+		"national_id" : 737,
+		"national_parent_id" : 735,
+		"national_group" : 735,
+		"national_language_id" : 279,
+		"national_print_order" : 336,
+		"national_name_ua" : "карагаси"
+	},
+	{
+		"national_id" : 717,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 337,
+		"national_name_ua" : "карагаші"
+	},
+	{
+		"national_id" : 63,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 338,
+		"national_name_ua" : "карадагці"
+	},
+	{
+		"national_id" : 335,
+		"national_parent_id" : null,
+		"national_group" : 335,
+		"national_language_id" : 85,
+		"national_print_order" : 339,
+		"national_name_ua" : "караїми"
+	},
+	{
+		"national_id" : 337,
+		"national_parent_id" : 335,
+		"national_group" : 335,
+		"national_language_id" : 85,
+		"national_print_order" : 340,
+		"national_name_ua" : "карай"
+	},
+	{
+		"national_id" : 336,
+		"national_parent_id" : 335,
+		"national_group" : 335,
+		"national_language_id" : 85,
+		"national_print_order" : 341,
+		"national_name_ua" : "карайлар"
+	},
+	{
+		"national_id" : 338,
+		"national_parent_id" : null,
+		"national_group" : 338,
+		"national_language_id" : 86,
+		"national_print_order" : 342,
+		"national_name_ua" : "каракалпаки"
+	},
+	{
+		"national_id" : 64,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 343,
+		"national_name_ua" : "карапапахи"
+	},
+	{
+		"national_id" : 469,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 344,
+		"national_name_ua" : "каратаї"
+	},
+	{
+		"national_id" : 42,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 345,
+		"national_name_ua" : "каратинці"
+	},
+	{
+		"national_id" : 339,
+		"national_parent_id" : null,
+		"national_group" : 339,
+		"national_language_id" : 87,
+		"national_print_order" : 346,
+		"national_name_ua" : "карачаївці"
+	},
+	{
+		"national_id" : 340,
+		"national_parent_id" : 339,
+		"national_group" : 339,
+		"national_language_id" : 87,
+		"national_print_order" : 347,
+		"national_name_ua" : "карачайлила"
+	},
+	{
+		"national_id" : 341,
+		"national_parent_id" : null,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 348,
+		"national_name_ua" : "карели"
+	},
+	{
+		"national_id" : 65,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 349,
+		"national_name_ua" : "карпапахи"
+	},
+	{
+		"national_id" : 209,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 350,
+		"national_name_ua" : "карталійці"
+	},
+	{
+		"national_id" : 201,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 351,
+		"national_name_ua" : "картвели"
+	},
+	{
+		"national_id" : 202,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 352,
+		"national_name_ua" : "картвелі"
+	},
+	{
+		"national_id" : 210,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 353,
+		"national_name_ua" : "картлійці"
+	},
+	{
+		"national_id" : 106,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 354,
+		"national_name_ua" : "катарці"
+	},
+	{
+		"national_id" : 211,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 355,
+		"national_name_ua" : "кахетинці"
+	},
+	{
+		"national_id" : 555,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 356,
+		"national_name_ua" : "кашмірці"
+	},
+	{
+		"national_id" : 501,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 357,
+		"national_name_ua" : "кенійці"
+	},
+	{
+		"national_id" : 320,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 358,
+		"national_name_ua" : "керей"
+	},
+	{
+		"national_id" : 651,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 359,
+		"national_name_ua" : "кержаки"
+	},
+	{
+		"national_id" : 348,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 360,
+		"national_name_ua" : "кет"
+	},
+	{
+		"national_id" : 347,
+		"national_parent_id" : null,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 361,
+		"national_name_ua" : "кети"
+	},
+	{
+		"national_id" : 351,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 362,
+		"national_name_ua" : "кето"
+	},
+	{
+		"national_id" : 804,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 363,
+		"national_name_ua" : "кипчак"
+	},
+	{
+		"national_id" : 355,
+		"national_parent_id" : 354,
+		"national_group" : 354,
+		"national_language_id" : 92,
+		"national_print_order" : 364,
+		"national_name_ua" : "киргиз"
+	},
+	{
+		"national_id" : 356,
+		"national_parent_id" : 354,
+		"national_group" : 354,
+		"national_language_id" : 92,
+		"national_print_order" : 365,
+		"national_name_ua" : "киргиздар"
+	},
+	{
+		"national_id" : 354,
+		"national_parent_id" : null,
+		"national_group" : 354,
+		"national_language_id" : 92,
+		"national_print_order" : 366,
+		"national_name_ua" : "киргизи"
+	},
+	{
+		"national_id" : 357,
+		"national_parent_id" : null,
+		"national_group" : 357,
+		"national_language_id" : 93,
+		"national_print_order" : 367,
+		"national_name_ua" : "китайці"
+	},
+	{
+		"national_id" : 750,
+		"national_parent_id" : 749,
+		"national_group" : 749,
+		"national_language_id" : 281,
+		"national_print_order" : 368,
+		"national_name_ua" : "кібріс тюрклері"
+	},
+	{
+		"national_id" : 502,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 369,
+		"national_name_ua" : "кікуйо"
+	},
+	{
+		"national_id" : 160,
+		"national_parent_id" : 159,
+		"national_group" : 159,
+		"national_language_id" : 31,
+		"national_print_order" : 370,
+		"national_name_ua" : "кінь"
+	},
+	{
+		"national_id" : 199,
+		"national_parent_id" : 197,
+		"national_group" : 197,
+		"national_language_id" : 39,
+		"national_print_order" : 371,
+		"national_name_ua" : "кіпріоти"
+	},
+	{
+		"national_id" : 751,
+		"national_parent_id" : 749,
+		"national_group" : 749,
+		"national_language_id" : 281,
+		"national_print_order" : 372,
+		"national_name_ua" : "кіпріоти"
+	},
+	{
+		"national_id" : 6,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 373,
+		"national_name_ua" : "козаки"
+	},
+	{
+		"national_id" : 652,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 374,
+		"national_name_ua" : "козаки"
+	},
+	{
+		"national_id" : 653,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 375,
+		"national_name_ua" : "колимчани"
+	},
+	{
+		"national_id" : 363,
+		"national_parent_id" : 362,
+		"national_group" : 362,
+		"national_language_id" : 76,
+		"national_print_order" : 376,
+		"national_name_ua" : "коломбіано"
+	},
+	{
+		"national_id" : 362,
+		"national_parent_id" : null,
+		"national_group" : 362,
+		"national_language_id" : 76,
+		"national_print_order" : 377,
+		"national_name_ua" : "колумбійці"
+	},
+	{
+		"national_id" : 364,
+		"national_parent_id" : null,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 378,
+		"national_name_ua" : "комі"
+	},
+	{
+		"national_id" : 366,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 379,
+		"national_name_ua" : "комі-войтир"
+	},
+	{
+		"national_id" : 368,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 380,
+		"national_name_ua" : "комі-зиряни"
+	},
+	{
+		"national_id" : 369,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 381,
+		"national_name_ua" : "комі-іжемці"
+	},
+	{
+		"national_id" : 367,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 382,
+		"national_name_ua" : "комі-йоз"
+	},
+	{
+		"national_id" : 365,
+		"national_parent_id" : 364,
+		"national_group" : 364,
+		"national_language_id" : 95,
+		"national_print_order" : 383,
+		"national_name_ua" : "комі-морт"
+	},
+	{
+		"national_id" : 374,
+		"national_parent_id" : 371,
+		"national_group" : 371,
+		"national_language_id" : 97,
+		"national_print_order" : 384,
+		"national_name_ua" : "комі-отир"
+	},
+	{
+		"national_id" : 371,
+		"national_parent_id" : null,
+		"national_group" : 371,
+		"national_language_id" : 97,
+		"national_print_order" : 385,
+		"national_name_ua" : "комі-перм’яки"
+	},
+	{
+		"national_id" : 373,
+		"national_parent_id" : 371,
+		"national_group" : 371,
+		"national_language_id" : 97,
+		"national_print_order" : 386,
+		"national_name_ua" : "комі-перм’яни"
+	},
+	{
+		"national_id" : 503,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 387,
+		"national_name_ua" : "коморці"
+	},
+	{
+		"national_id" : 504,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 388,
+		"national_name_ua" : "конго"
+	},
+	{
+		"national_id" : 505,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 389,
+		"national_name_ua" : "конголезці"
+	},
+	{
+		"national_id" : 321,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 390,
+		"national_name_ua" : "конграт"
+	},
+	{
+		"national_id" : 805,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 391,
+		"national_name_ua" : "конграт"
+	},
+	{
+		"national_id" : 556,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 392,
+		"national_name_ua" : "конкані"
+	},
+	{
+		"national_id" : 375,
+		"national_parent_id" : null,
+		"national_group" : 375,
+		"national_language_id" : 99,
+		"national_print_order" : 393,
+		"national_name_ua" : "корейці"
+	},
+	{
+		"national_id" : 378,
+		"national_parent_id" : null,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 394,
+		"national_name_ua" : "коряки"
+	},
+	{
+		"national_id" : 506,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 395,
+		"national_name_ua" : "котдівуарці"
+	},
+	{
+		"national_id" : 386,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 396,
+		"national_name_ua" : "крим татарлар"
+	},
+	{
+		"national_id" : 388,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 397,
+		"national_name_ua" : "кримли"
+	},
+	{
+		"national_id" : 177,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 398,
+		"national_name_ua" : "кримські вірмени"
+	},
+	{
+		"national_id" : 385,
+		"national_parent_id" : null,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 399,
+		"national_name_ua" : "кримські татари"
+	},
+	{
+		"national_id" : 387,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 400,
+		"national_name_ua" : "кримці"
+	},
+	{
+		"national_id" : 394,
+		"national_parent_id" : null,
+		"national_group" : 394,
+		"national_language_id" : 102,
+		"national_print_order" : 401,
+		"national_name_ua" : "кримчаки"
+	},
+	{
+		"national_id" : 395,
+		"national_parent_id" : 394,
+		"national_group" : 394,
+		"national_language_id" : 102,
+		"national_print_order" : 402,
+		"national_name_ua" : "кримчах"
+	},
+	{
+		"national_id" : 718,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 403,
+		"national_name_ua" : "кряшени"
+	},
+	{
+		"national_id" : 397,
+		"national_parent_id" : 396,
+		"national_group" : 396,
+		"national_language_id" : 76,
+		"national_print_order" : 404,
+		"national_name_ua" : "кубанос"
+	},
+	{
+		"national_id" : 7,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 405,
+		"national_name_ua" : "кубанці"
+	},
+	{
+		"national_id" : 654,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 406,
+		"national_name_ua" : "кубанці"
+	},
+	{
+		"national_id" : 233,
+		"national_parent_id" : 226,
+		"national_group" : 226,
+		"national_language_id" : 52,
+		"national_print_order" : 407,
+		"national_name_ua" : "кубачинці"
+	},
+	{
+		"national_id" : 396,
+		"national_parent_id" : null,
+		"national_group" : 396,
+		"national_language_id" : 76,
+		"national_print_order" : 408,
+		"national_name_ua" : "кубинці"
+	},
+	{
+		"national_id" : 107,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 409,
+		"national_name_ua" : "кувейтці"
+	},
+	{
+		"national_id" : 84,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 410,
+		"national_name_ua" : "кумандинці"
+	},
+	{
+		"national_id" : 398,
+		"national_parent_id" : null,
+		"national_group" : 398,
+		"national_language_id" : 104,
+		"national_print_order" : 411,
+		"national_name_ua" : "кумики"
+	},
+	{
+		"national_id" : 399,
+		"national_parent_id" : 398,
+		"national_group" : 398,
+		"national_language_id" : 104,
+		"national_print_order" : 412,
+		"national_name_ua" : "кумук"
+	},
+	{
+		"national_id" : 806,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 413,
+		"national_name_ua" : "курамійці"
+	},
+	{
+		"national_id" : 401,
+		"national_parent_id" : 400,
+		"national_group" : 400,
+		"national_language_id" : 107,
+		"national_print_order" : 414,
+		"national_name_ua" : "курд"
+	},
+	{
+		"national_id" : 400,
+		"national_parent_id" : null,
+		"national_group" : 400,
+		"national_language_id" : 107,
+		"national_print_order" : 415,
+		"national_name_ua" : "курди"
+	},
+	{
+		"national_id" : 402,
+		"national_parent_id" : 400,
+		"national_group" : 400,
+		"national_language_id" : 107,
+		"national_print_order" : 416,
+		"national_name_ua" : "курмандж"
+	},
+	{
+		"national_id" : 416,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 417,
+		"national_name_ua" : "курши"
+	},
+	{
+		"national_id" : 404,
+		"national_parent_id" : 403,
+		"national_group" : 403,
+		"national_language_id" : 109,
+		"national_print_order" : 418,
+		"national_name_ua" : "кхмер"
+	},
+	{
+		"national_id" : 403,
+		"national_parent_id" : null,
+		"national_group" : 403,
+		"national_language_id" : 109,
+		"national_print_order" : 419,
+		"national_name_ua" : "кхмери"
+	},
+	{
+		"national_id" : 709,
+		"national_parent_id" : 705,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 420,
+		"national_name_ua" : "кхон-тай"
+	},
+	{
+		"national_id" : 212,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 421,
+		"national_name_ua" : "лази"
+	},
+	{
+		"national_id" : 408,
+		"national_parent_id" : 407,
+		"national_group" : 407,
+		"national_language_id" : 111,
+		"national_print_order" : 422,
+		"national_name_ua" : "лак"
+	},
+	{
+		"national_id" : 409,
+		"national_parent_id" : 407,
+		"national_group" : 407,
+		"national_language_id" : 111,
+		"national_print_order" : 423,
+		"national_name_ua" : "лаки"
+	},
+	{
+		"national_id" : 407,
+		"national_parent_id" : null,
+		"national_group" : 407,
+		"national_language_id" : 111,
+		"national_print_order" : 424,
+		"national_name_ua" : "лакці"
+	},
+	{
+		"national_id" : 242,
+		"national_parent_id" : 240,
+		"national_group" : 240,
+		"national_language_id" : 57,
+		"national_print_order" : 425,
+		"national_name_ua" : "ламути"
+	},
+	{
+		"national_id" : 557,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 426,
+		"national_name_ua" : "ланкійці"
+	},
+	{
+		"national_id" : 410,
+		"national_parent_id" : null,
+		"national_group" : 410,
+		"national_language_id" : 112,
+		"national_print_order" : 427,
+		"national_name_ua" : "лао"
+	},
+	{
+		"national_id" : 411,
+		"national_parent_id" : 410,
+		"national_group" : 410,
+		"national_language_id" : 112,
+		"national_print_order" : 428,
+		"national_name_ua" : "лаосці"
+	},
+	{
+		"national_id" : 666,
+		"national_parent_id" : 665,
+		"national_group" : 665,
+		"national_language_id" : 255,
+		"national_print_order" : 429,
+		"national_name_ua" : "лапландці"
+	},
+	{
+		"national_id" : 414,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 430,
+		"national_name_ua" : "латвієтіс"
+	},
+	{
+		"national_id" : 413,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 431,
+		"national_name_ua" : "латвієші"
+	},
+	{
+		"national_id" : 417,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 432,
+		"national_name_ua" : "латвіс"
+	},
+	{
+		"national_id" : 418,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 433,
+		"national_name_ua" : "латгали"
+	},
+	{
+		"national_id" : 419,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 434,
+		"national_name_ua" : "латгальці"
+	},
+	{
+		"national_id" : 412,
+		"national_parent_id" : null,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 435,
+		"national_name_ua" : "латиші"
+	},
+	{
+		"national_id" : 266,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 436,
+		"national_name_ua" : "лахлухи"
+	},
+	{
+		"national_id" : 423,
+		"national_parent_id" : 421,
+		"national_group" : 421,
+		"national_language_id" : 116,
+		"national_print_order" : 437,
+		"national_name_ua" : "лезги"
+	},
+	{
+		"national_id" : 421,
+		"national_parent_id" : null,
+		"national_group" : 421,
+		"national_language_id" : 116,
+		"national_print_order" : 438,
+		"national_name_ua" : "лезгини"
+	},
+	{
+		"national_id" : 422,
+		"national_parent_id" : 421,
+		"national_group" : 421,
+		"national_language_id" : 116,
+		"national_print_order" : 439,
+		"national_name_ua" : "лезгияр"
+	},
+	{
+		"national_id" : 424,
+		"national_parent_id" : 421,
+		"national_group" : 421,
+		"national_language_id" : 116,
+		"national_print_order" : 440,
+		"national_name_ua" : "лезгіяр"
+	},
+	{
+		"national_id" : 21,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 441,
+		"national_name_ua" : "лемки"
+	},
+	{
+		"national_id" : 434,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 442,
+		"national_name_ua" : "летувник"
+	},
+	{
+		"national_id" : 426,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 443,
+		"national_name_ua" : "летувяй"
+	},
+	{
+		"national_id" : 213,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 444,
+		"national_name_ua" : "лечхумці"
+	},
+	{
+		"national_id" : 879,
+		"national_parent_id" : 876,
+		"national_group" : 876,
+		"national_language_id" : 306,
+		"national_print_order" : 445,
+		"national_name_ua" : "лиґ'о"
+	},
+	{
+		"national_id" : 655,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 446,
+		"national_name_ua" : "липовани"
+	},
+	{
+		"national_id" : 8,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 447,
+		"national_name_ua" : "литвини"
+	},
+	{
+		"national_id" : 142,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 448,
+		"national_name_ua" : "литвини"
+	},
+	{
+		"national_id" : 435,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 449,
+		"national_name_ua" : "литвини"
+	},
+	{
+		"national_id" : 143,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 450,
+		"national_name_ua" : "литвяки"
+	},
+	{
+		"national_id" : 436,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 451,
+		"national_name_ua" : "литвяки"
+	},
+	{
+		"national_id" : 425,
+		"national_parent_id" : null,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 452,
+		"national_name_ua" : "литовці"
+	},
+	{
+		"national_id" : 507,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 453,
+		"national_name_ua" : "ліберійці"
+	},
+	{
+		"national_id" : 108,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 454,
+		"national_name_ua" : "ліванці"
+	},
+	{
+		"national_id" : 345,
+		"national_parent_id" : 341,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 455,
+		"national_name_ua" : "ліввіки"
+	},
+	{
+		"national_id" : 441,
+		"national_parent_id" : null,
+		"national_group" : 441,
+		"national_language_id" : 118,
+		"national_print_order" : 456,
+		"national_name_ua" : "ліви"
+	},
+	{
+		"national_id" : 109,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 457,
+		"national_name_ua" : "лівійці"
+	},
+	{
+		"national_id" : 442,
+		"national_parent_id" : 441,
+		"national_group" : 441,
+		"national_language_id" : 118,
+		"national_print_order" : 458,
+		"national_name_ua" : "лівлі"
+	},
+	{
+		"national_id" : 667,
+		"national_parent_id" : 665,
+		"national_group" : 665,
+		"national_language_id" : 255,
+		"national_print_order" : 459,
+		"national_name_ua" : "лопарі"
+	},
+	{
+		"national_id" : 456,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 460,
+		"national_name_ua" : "лугові марійці"
+	},
+	{
+		"national_id" : 599,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 461,
+		"national_name_ua" : "лужицькі серби"
+	},
+	{
+		"national_id" : 346,
+		"national_parent_id" : 341,
+		"national_group" : 341,
+		"national_language_id" : 90,
+		"national_print_order" : 462,
+		"national_name_ua" : "людіки"
+	},
+	{
+		"national_id" : 172,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 463,
+		"national_name_ua" : "людінікад"
+	},
+	{
+		"national_id" : 641,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 464,
+		"national_name_ua" : "люлі"
+	},
+	{
+		"national_id" : 259,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 465,
+		"national_name_ua" : "маарахвас"
+	},
+	{
+		"national_id" : 34,
+		"national_parent_id" : 33,
+		"national_group" : 33,
+		"national_language_id" : 4,
+		"national_print_order" : 466,
+		"national_name_ua" : "маарулал"
+	},
+	{
+		"national_id" : 110,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 467,
+		"national_name_ua" : "маври"
+	},
+	{
+		"national_id" : 508,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 468,
+		"national_name_ua" : "маврикійці"
+	},
+	{
+		"national_id" : 111,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 469,
+		"national_name_ua" : "мавританці"
+	},
+	{
+		"national_id" : 509,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 470,
+		"national_name_ua" : "мадагаскарці"
+	},
+	{
+		"national_id" : 295,
+		"national_parent_id" : 293,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 471,
+		"national_name_ua" : "мадурці"
+	},
+	{
+		"national_id" : 783,
+		"national_parent_id" : 782,
+		"national_group" : 782,
+		"national_language_id" : 284,
+		"national_print_order" : 472,
+		"national_name_ua" : "мадяри"
+	},
+	{
+		"national_id" : 444,
+		"national_parent_id" : null,
+		"national_group" : 444,
+		"national_language_id" : 119,
+		"national_print_order" : 473,
+		"national_name_ua" : "македонці"
+	},
+	{
+		"national_id" : 510,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 474,
+		"national_name_ua" : "малавійці"
+	},
+	{
+		"national_id" : 511,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 475,
+		"national_name_ua" : "малагасійці"
+	},
+	{
+		"national_id" : 446,
+		"national_parent_id" : 445,
+		"national_group" : 445,
+		"national_language_id" : 120,
+		"national_print_order" : 476,
+		"national_name_ua" : "малазійці"
+	},
+	{
+		"national_id" : 445,
+		"national_parent_id" : null,
+		"national_group" : 445,
+		"national_language_id" : 120,
+		"national_print_order" : 477,
+		"national_name_ua" : "малайці"
+	},
+	{
+		"national_id" : 298,
+		"national_parent_id" : 293,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 478,
+		"national_name_ua" : "малайці індонезії"
+	},
+	{
+		"national_id" : 558,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 479,
+		"national_name_ua" : "малаяли"
+	},
+	{
+		"national_id" : 512,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 480,
+		"national_name_ua" : "малійці"
+	},
+	{
+		"national_id" : 134,
+		"national_parent_id" : 132,
+		"national_group" : 132,
+		"national_language_id" : 87,
+		"national_print_order" : 481,
+		"national_name_ua" : "малкарці"
+	},
+	{
+		"national_id" : 513,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 482,
+		"national_name_ua" : "мальгаші"
+	},
+	{
+		"national_id" : 807,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 483,
+		"national_name_ua" : "мангит"
+	},
+	{
+		"national_id" : 514,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 484,
+		"national_name_ua" : "мандінго"
+	},
+	{
+		"national_id" : 448,
+		"national_parent_id" : 447,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 485,
+		"national_name_ua" : "манзь"
+	},
+	{
+		"national_id" : 559,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 486,
+		"national_name_ua" : "маніпурі"
+	},
+	{
+		"national_id" : 447,
+		"national_parent_id" : null,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 487,
+		"national_name_ua" : "мансі"
+	},
+	{
+		"national_id" : 560,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 488,
+		"national_name_ua" : "маратхи"
+	},
+	{
+		"national_id" : 454,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 489,
+		"national_name_ua" : "марі"
+	},
+	{
+		"national_id" : 453,
+		"national_parent_id" : null,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 490,
+		"national_name_ua" : "марійці"
+	},
+	{
+		"national_id" : 112,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 491,
+		"national_name_ua" : "марокканці"
+	},
+	{
+		"national_id" : 55,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 492,
+		"national_name_ua" : "махмеги"
+	},
+	{
+		"national_id" : 214,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 493,
+		"national_name_ua" : "мегрели"
+	},
+	{
+		"national_id" : 460,
+		"national_parent_id" : null,
+		"national_group" : 460,
+		"national_language_id" : 76,
+		"national_print_order" : 494,
+		"national_name_ua" : "мексиканці"
+	},
+	{
+		"national_id" : 451,
+		"national_parent_id" : 447,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 495,
+		"national_name_ua" : "менидси"
+	},
+	{
+		"national_id" : 600,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 496,
+		"national_name_ua" : "менноніти"
+	},
+	{
+		"national_id" : 754,
+		"national_parent_id" : 752,
+		"national_group" : 752,
+		"national_language_id" : 281,
+		"national_print_order" : 497,
+		"national_name_ua" : "месхетинці"
+	},
+	{
+		"national_id" : 215,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 498,
+		"national_name_ua" : "месхі"
+	},
+	{
+		"national_id" : 461,
+		"national_parent_id" : 460,
+		"national_group" : 460,
+		"national_language_id" : 76,
+		"national_print_order" : 499,
+		"national_name_ua" : "мехікано"
+	},
+	{
+		"national_id" : 719,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 500,
+		"national_name_ua" : "мещеряки"
+	},
+	{
+		"national_id" : 661,
+		"national_parent_id" : 659,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 501,
+		"national_name_ua" : "мих адбир"
+	},
+	{
+		"national_id" : 662,
+		"national_parent_id" : 659,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 502,
+		"national_name_ua" : "михадабир"
+	},
+	{
+		"national_id" : 663,
+		"national_parent_id" : 659,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 503,
+		"national_name_ua" : "михадар"
+	},
+	{
+		"national_id" : 720,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 504,
+		"national_name_ua" : "міжер"
+	},
+	{
+		"national_id" : 721,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 505,
+		"national_name_ua" : "мішари"
+	},
+	{
+		"national_id" : 452,
+		"national_parent_id" : 447,
+		"national_group" : 447,
+		"national_language_id" : 121,
+		"national_print_order" : 506,
+		"national_name_ua" : "моансь"
+	},
+	{
+		"national_id" : 515,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 507,
+		"national_name_ua" : "мозамбікійці"
+	},
+	{
+		"national_id" : 470,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 508,
+		"national_name_ua" : "мокша"
+	},
+	{
+		"national_id" : 462,
+		"national_parent_id" : null,
+		"national_group" : 462,
+		"national_language_id" : 211,
+		"national_print_order" : 509,
+		"national_name_ua" : "молдовани"
+	},
+	{
+		"national_id" : 463,
+		"national_parent_id" : 462,
+		"national_group" : 462,
+		"national_language_id" : 211,
+		"national_print_order" : 510,
+		"national_name_ua" : "молдовень"
+	},
+	{
+		"national_id" : 843,
+		"national_parent_id" : 840,
+		"national_group" : 840,
+		"national_language_id" : 212,
+		"national_print_order" : 511,
+		"national_name_ua" : "монголи"
+	},
+	{
+		"national_id" : 857,
+		"national_parent_id" : 855,
+		"national_group" : 855,
+		"national_language_id" : 302,
+		"national_print_order" : 512,
+		"national_name_ua" : "моравани"
+	},
+	{
+		"national_id" : 858,
+		"national_parent_id" : 855,
+		"national_group" : 855,
+		"national_language_id" : 302,
+		"national_print_order" : 513,
+		"national_name_ua" : "моравці"
+	},
+	{
+		"national_id" : 465,
+		"national_parent_id" : null,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 514,
+		"national_name_ua" : "мордва"
+	},
+	{
+		"national_id" : 467,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 515,
+		"national_name_ua" : "мордвини"
+	},
+	{
+		"national_id" : 466,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 516,
+		"national_name_ua" : "мордовці"
+	},
+	{
+		"national_id" : 216,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 517,
+		"national_name_ua" : "мохевці"
+	},
+	{
+		"national_id" : 217,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 518,
+		"national_name_ua" : "мтіули"
+	},
+	{
+		"national_id" : 642,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 519,
+		"national_name_ua" : "мугат"
+	},
+	{
+		"national_id" : 769,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 520,
+		"national_name_ua" : "мукри"
+	},
+	{
+		"national_id" : 643,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 521,
+		"national_name_ua" : "мультони"
+	},
+	{
+		"national_id" : 151,
+		"national_parent_id" : 148,
+		"national_group" : 148,
+		"national_language_id" : 258,
+		"national_print_order" : 522,
+		"national_name_ua" : "муслімани"
+	},
+	{
+		"national_id" : 722,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 523,
+		"national_name_ua" : "нагайбаки"
+	},
+	{
+		"national_id" : 9,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 524,
+		"national_name_ua" : "надсянці"
+	},
+	{
+		"national_id" : 322,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 525,
+		"national_name_ua" : "найман"
+	},
+	{
+		"national_id" : 516,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 526,
+		"national_name_ua" : "намібійці"
+	},
+	{
+		"national_id" : 473,
+		"national_parent_id" : 472,
+		"national_group" : 472,
+		"national_language_id" : 217,
+		"national_print_order" : 527,
+		"national_name_ua" : "нанай"
+	},
+	{
+		"national_id" : 472,
+		"national_parent_id" : null,
+		"national_group" : 472,
+		"national_language_id" : 217,
+		"national_print_order" : 528,
+		"national_name_ua" : "нанайці"
+	},
+	{
+		"national_id" : 475,
+		"national_parent_id" : 472,
+		"national_group" : 472,
+		"national_language_id" : 217,
+		"national_print_order" : 529,
+		"national_name_ua" : "нані"
+	},
+	{
+		"national_id" : 614,
+		"national_parent_id" : 612,
+		"national_group" : 612,
+		"national_language_id" : 227,
+		"national_print_order" : 530,
+		"national_name_ua" : "нані"
+	},
+	{
+		"national_id" : 617,
+		"national_parent_id" : 616,
+		"national_group" : 616,
+		"national_language_id" : 228,
+		"national_print_order" : 531,
+		"national_name_ua" : "нані"
+	},
+	{
+		"national_id" : 815,
+		"national_parent_id" : 814,
+		"national_group" : 814,
+		"national_language_id" : 292,
+		"national_print_order" : 532,
+		"national_name_ua" : "нані"
+	},
+	{
+		"national_id" : 476,
+		"national_parent_id" : null,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 533,
+		"national_name_ua" : "народи Африки на південь від Сахари"
+	},
+	{
+		"national_id" : 542,
+		"national_parent_id" : null,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 534,
+		"national_name_ua" : "народи Індії та Пакистану (включаючи народи сусідніх країн - Бангладеш, Непалу, Шрі-Ланки)"
+	},
+	{
+		"national_id" : 53,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 535,
+		"national_name_ua" : "натухайці"
+	},
+	{
+		"national_id" : 573,
+		"national_parent_id" : null,
+		"national_group" : 573,
+		"national_language_id" : 218,
+		"national_print_order" : 536,
+		"national_name_ua" : "нганасани"
+	},
+	{
+		"national_id" : 578,
+		"national_parent_id" : 577,
+		"national_group" : 577,
+		"national_language_id" : 219,
+		"national_print_order" : 537,
+		"national_name_ua" : "негди"
+	},
+	{
+		"national_id" : 577,
+		"national_parent_id" : null,
+		"national_group" : 577,
+		"national_language_id" : 219,
+		"national_print_order" : 538,
+		"national_name_ua" : "негідальці"
+	},
+	{
+		"national_id" : 583,
+		"national_parent_id" : 582,
+		"national_group" : 582,
+		"national_language_id" : 220,
+		"national_print_order" : 539,
+		"national_name_ua" : "ненець"
+	},
+	{
+		"national_id" : 582,
+		"national_parent_id" : null,
+		"national_group" : 582,
+		"national_language_id" : 220,
+		"national_print_order" : 540,
+		"national_name_ua" : "ненці"
+	},
+	{
+		"national_id" : 561,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 541,
+		"national_name_ua" : "непальці"
+	},
+	{
+		"national_id" : 381,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 542,
+		"national_name_ua" : "нимилани"
+	},
+	{
+		"national_id" : 587,
+		"national_parent_id" : 586,
+		"national_group" : 586,
+		"national_language_id" : 221,
+		"national_print_order" : 543,
+		"national_name_ua" : "нівхгу"
+	},
+	{
+		"national_id" : 586,
+		"national_parent_id" : null,
+		"national_group" : 586,
+		"national_language_id" : 221,
+		"national_print_order" : 544,
+		"national_name_ua" : "нівхи"
+	},
+	{
+		"national_id" : 517,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 545,
+		"national_name_ua" : "нігерійці"
+	},
+	{
+		"national_id" : 518,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 546,
+		"national_name_ua" : "нігерці"
+	},
+	{
+		"national_id" : 187,
+		"national_parent_id" : 185,
+		"national_group" : 185,
+		"national_language_id" : 36,
+		"national_print_order" : 547,
+		"national_name_ua" : "нідерландці"
+	},
+	{
+		"national_id" : 589,
+		"national_parent_id" : null,
+		"national_group" : 589,
+		"national_language_id" : 76,
+		"national_print_order" : 548,
+		"national_name_ua" : "нікарагуанці"
+	},
+	{
+		"national_id" : 590,
+		"national_parent_id" : 589,
+		"national_group" : 589,
+		"national_language_id" : 76,
+		"national_print_order" : 549,
+		"national_name_ua" : "нікарагуене"
+	},
+	{
+		"national_id" : 519,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 550,
+		"national_name_ua" : "нілоти"
+	},
+	{
+		"national_id" : 591,
+		"national_parent_id" : null,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 551,
+		"national_name_ua" : "німці"
+	},
+	{
+		"national_id" : 901,
+		"national_parent_id" : 899,
+		"national_group" : 899,
+		"national_language_id" : 311,
+		"national_print_order" : 552,
+		"national_name_ua" : "ніппондзін"
+	},
+	{
+		"national_id" : 900,
+		"national_parent_id" : 899,
+		"national_group" : 899,
+		"national_language_id" : 311,
+		"national_print_order" : 553,
+		"national_name_ua" : "ніхондзін"
+	},
+	{
+		"national_id" : 607,
+		"national_parent_id" : null,
+		"national_group" : 607,
+		"national_language_id" : 17,
+		"national_print_order" : 554,
+		"national_name_ua" : "новозеландці"
+	},
+	{
+		"national_id" : 389,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 555,
+		"national_name_ua" : "ногаї кримські"
+	},
+	{
+		"national_id" : 390,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 556,
+		"national_name_ua" : "ногаї татар"
+	},
+	{
+		"national_id" : 609,
+		"national_parent_id" : 608,
+		"national_group" : 608,
+		"national_language_id" : 225,
+		"national_print_order" : 557,
+		"national_name_ua" : "ногай"
+	},
+	{
+		"national_id" : 608,
+		"national_parent_id" : null,
+		"national_group" : 608,
+		"national_language_id" : 225,
+		"national_print_order" : 558,
+		"national_name_ua" : "ногайці"
+	},
+	{
+		"national_id" : 610,
+		"national_parent_id" : null,
+		"national_group" : 610,
+		"national_language_id" : 226,
+		"national_print_order" : 559,
+		"national_name_ua" : "норвежці"
+	},
+	{
+		"national_id" : 611,
+		"national_parent_id" : 610,
+		"national_group" : 610,
+		"national_language_id" : 226,
+		"national_print_order" : 560,
+		"national_name_ua" : "нордманн"
+	},
+	{
+		"national_id" : 770,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 561,
+		"national_name_ua" : "нохурлі"
+	},
+	{
+		"national_id" : 860,
+		"national_parent_id" : 859,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 562,
+		"national_name_ua" : "нохчій"
+	},
+	{
+		"national_id" : 520,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 563,
+		"national_name_ua" : "нубійці"
+	},
+	{
+		"national_id" : 574,
+		"national_parent_id" : 573,
+		"national_group" : 573,
+		"national_language_id" : 218,
+		"national_print_order" : 564,
+		"national_name_ua" : "ня"
+	},
+	{
+		"national_id" : 575,
+		"national_parent_id" : 573,
+		"national_group" : 573,
+		"national_language_id" : 218,
+		"national_print_order" : 565,
+		"national_name_ua" : "няа"
+	},
+	{
+		"national_id" : 795,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 566,
+		"national_name_ua" : "одморт"
+	},
+	{
+		"national_id" : 893,
+		"national_parent_id" : 892,
+		"national_group" : 892,
+		"national_language_id" : 309,
+		"national_print_order" : 567,
+		"national_name_ua" : "одул"
+	},
+	{
+		"national_id" : 808,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 568,
+		"national_name_ua" : "озбак"
+	},
+	{
+		"national_id" : 331,
+		"national_parent_id" : 328,
+		"national_group" : 328,
+		"national_language_id" : 84,
+		"national_print_order" : 569,
+		"national_name_ua" : "ойрати"
+	},
+	{
+		"national_id" : 85,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 570,
+		"national_name_ua" : "ойроти"
+	},
+	{
+		"national_id" : 816,
+		"national_parent_id" : 814,
+		"national_group" : 814,
+		"national_language_id" : 292,
+		"national_print_order" : 571,
+		"national_name_ua" : "ольчі"
+	},
+	{
+		"national_id" : 113,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 572,
+		"national_name_ua" : "оманці"
+	},
+	{
+		"national_id" : 10,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 573,
+		"national_name_ua" : "ополяни"
+	},
+	{
+		"national_id" : 562,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 574,
+		"national_name_ua" : "орія"
+	},
+	{
+		"national_id" : 612,
+		"national_parent_id" : null,
+		"national_group" : 612,
+		"national_language_id" : 227,
+		"national_print_order" : 575,
+		"national_name_ua" : "ороки"
+	},
+	{
+		"national_id" : 521,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 576,
+		"national_name_ua" : "оромо"
+	},
+	{
+		"national_id" : 243,
+		"national_parent_id" : 240,
+		"national_group" : 240,
+		"national_language_id" : 57,
+		"national_print_order" : 577,
+		"national_name_ua" : "ороч"
+	},
+	{
+		"national_id" : 618,
+		"national_parent_id" : 616,
+		"national_group" : 616,
+		"national_language_id" : 228,
+		"national_print_order" : 578,
+		"national_name_ua" : "ороч"
+	},
+	{
+		"national_id" : 619,
+		"national_parent_id" : 616,
+		"national_group" : 616,
+		"national_language_id" : 228,
+		"national_print_order" : 579,
+		"national_name_ua" : "орочили"
+	},
+	{
+		"national_id" : 620,
+		"national_parent_id" : 616,
+		"national_group" : 616,
+		"national_language_id" : 228,
+		"national_print_order" : 580,
+		"national_name_ua" : "орочисел"
+	},
+	{
+		"national_id" : 616,
+		"national_parent_id" : null,
+		"national_group" : 616,
+		"national_language_id" : 228,
+		"national_print_order" : 581,
+		"national_name_ua" : "орочі"
+	},
+	{
+		"national_id" : 621,
+		"national_parent_id" : null,
+		"national_group" : 621,
+		"national_language_id" : 229,
+		"national_print_order" : 582,
+		"national_name_ua" : "осетини"
+	},
+	{
+		"national_id" : 601,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 583,
+		"national_name_ua" : "остзеедойце"
+	},
+	{
+		"national_id" : 352,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 584,
+		"national_name_ua" : "остяки"
+	},
+	{
+		"national_id" : 672,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 585,
+		"national_name_ua" : "остяки"
+	},
+	{
+		"national_id" : 845,
+		"national_parent_id" : 844,
+		"national_group" : 844,
+		"national_language_id" : 299,
+		"national_print_order" : 586,
+		"national_name_ua" : "остяки"
+	},
+	{
+		"national_id" : 44,
+		"national_parent_id" : 43,
+		"national_group" : 43,
+		"national_language_id" : 17,
+		"national_print_order" : 587,
+		"national_name_ua" : "оустреліан"
+	},
+	{
+		"national_id" : 323,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 588,
+		"national_name_ua" : "ошакти сари-уйсун"
+	},
+	{
+		"national_id" : 66,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 589,
+		"national_name_ua" : "падари"
+	},
+	{
+		"national_id" : 67,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 590,
+		"national_name_ua" : "пайдари"
+	},
+	{
+		"national_id" : 563,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 591,
+		"national_name_ua" : "пакистанці"
+	},
+	{
+		"national_id" : 114,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 592,
+		"national_name_ua" : "палестинці"
+	},
+	{
+		"national_id" : 695,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 593,
+		"national_name_ua" : "памірські таджики"
+	},
+	{
+		"national_id" : 630,
+		"national_parent_id" : 626,
+		"national_group" : 626,
+		"national_language_id" : 232,
+		"national_print_order" : 594,
+		"national_name_ua" : "парс"
+	},
+	{
+		"national_id" : 131,
+		"national_parent_id" : 129,
+		"national_group" : 129,
+		"national_language_id" : 24,
+		"national_print_order" : 595,
+		"national_name_ua" : "патани"
+	},
+	{
+		"national_id" : 564,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 596,
+		"national_name_ua" : "пенджабці"
+	},
+	{
+		"national_id" : 372,
+		"national_parent_id" : 371,
+		"national_group" : 371,
+		"national_language_id" : 97,
+		"national_print_order" : 597,
+		"national_name_ua" : "перм’яки"
+	},
+	{
+		"national_id" : 626,
+		"national_parent_id" : null,
+		"national_group" : 626,
+		"national_language_id" : 232,
+		"national_print_order" : 598,
+		"national_name_ua" : "перси"
+	},
+	{
+		"national_id" : 632,
+		"national_parent_id" : 631,
+		"national_group" : 631,
+		"national_language_id" : 76,
+		"national_print_order" : 599,
+		"national_name_ua" : "перуано"
+	},
+	{
+		"national_id" : 631,
+		"national_parent_id" : null,
+		"national_group" : 631,
+		"national_language_id" : 76,
+		"national_print_order" : 600,
+		"national_name_ua" : "перуанці"
+	},
+	{
+		"national_id" : 522,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 601,
+		"national_name_ua" : "південноафриканці"
+	},
+	{
+		"national_id" : 11,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 602,
+		"national_name_ua" : "підляшці"
+	},
+	{
+		"national_id" : 12,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 603,
+		"national_name_ua" : "пінчуки"
+	},
+	{
+		"national_id" : 144,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 604,
+		"national_name_ua" : "пінчуки"
+	},
+	{
+		"national_id" : 13,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 605,
+		"national_name_ua" : "подоляни"
+	},
+	{
+		"national_id" : 14,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 606,
+		"national_name_ua" : "покутяни"
+	},
+	{
+		"national_id" : 15,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 607,
+		"national_name_ua" : "поліщуки"
+	},
+	{
+		"national_id" : 145,
+		"national_parent_id" : 139,
+		"national_group" : 139,
+		"national_language_id" : 27,
+		"national_print_order" : 608,
+		"national_name_ua" : "поліщуки"
+	},
+	{
+		"national_id" : 633,
+		"national_parent_id" : null,
+		"national_group" : 633,
+		"national_language_id" : 241,
+		"national_print_order" : 609,
+		"national_name_ua" : "поляки"
+	},
+	{
+		"national_id" : 634,
+		"national_parent_id" : 633,
+		"national_group" : 633,
+		"national_language_id" : 241,
+		"national_print_order" : 610,
+		"national_name_ua" : "поляці"
+	},
+	{
+		"national_id" : 656,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 611,
+		"national_name_ua" : "помори"
+	},
+	{
+		"national_id" : 637,
+		"national_parent_id" : null,
+		"national_group" : 637,
+		"national_language_id" : 243,
+		"national_print_order" : 612,
+		"national_name_ua" : "португальці"
+	},
+	{
+		"national_id" : 638,
+		"national_parent_id" : 637,
+		"national_group" : 637,
+		"national_language_id" : 243,
+		"national_print_order" : 613,
+		"national_name_ua" : "португезиш"
+	},
+	{
+		"national_id" : 602,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 614,
+		"national_name_ua" : "прусаки"
+	},
+	{
+		"national_id" : 130,
+		"national_parent_id" : 129,
+		"national_group" : 129,
+		"national_language_id" : 24,
+		"national_print_order" : 615,
+		"national_name_ua" : "пуштуни"
+	},
+	{
+		"national_id" : 218,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 616,
+		"national_name_ua" : "пшави"
+	},
+	{
+		"national_id" : 880,
+		"national_parent_id" : 876,
+		"national_group" : 876,
+		"national_language_id" : 306,
+		"national_print_order" : 617,
+		"national_name_ua" : "раветльян"
+	},
+	{
+		"national_id" : 565,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 618,
+		"national_name_ua" : "раджастханці"
+	},
+	{
+		"national_id" : 219,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 619,
+		"national_name_ua" : "рачвельці"
+	},
+	{
+		"national_id" : 220,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 620,
+		"national_name_ua" : "рачинці"
+	},
+	{
+		"national_id" : 640,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 621,
+		"national_name_ua" : "рома"
+	},
+	{
+		"national_id" : 193,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 622,
+		"national_name_ua" : "ромеос"
+	},
+	{
+		"national_id" : 639,
+		"national_parent_id" : null,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 623,
+		"national_name_ua" : "роми"
+	},
+	{
+		"national_id" : 658,
+		"national_parent_id" : 657,
+		"national_group" : 657,
+		"national_language_id" : 252,
+		"national_print_order" : 624,
+		"national_name_ua" : "роминь"
+	},
+	{
+		"national_id" : 647,
+		"national_parent_id" : null,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 625,
+		"national_name_ua" : "росіяни"
+	},
+	{
+		"national_id" : 648,
+		"national_parent_id" : 647,
+		"national_group" : 647,
+		"national_language_id" : 251,
+		"national_print_order" : 626,
+		"national_name_ua" : "росіяни (русскіє)"
+	},
+	{
+		"national_id" : 523,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 627,
+		"national_name_ua" : "руанда"
+	},
+	{
+		"national_id" : 194,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 628,
+		"national_name_ua" : "румеї"
+	},
+	{
+		"national_id" : 657,
+		"national_parent_id" : null,
+		"national_group" : 657,
+		"national_language_id" : 252,
+		"national_print_order" : 629,
+		"national_name_ua" : "румуни"
+	},
+	{
+		"national_id" : 22,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 630,
+		"national_name_ua" : "русини"
+	},
+	{
+		"national_id" : 664,
+		"national_parent_id" : 659,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 631,
+		"national_name_ua" : "рутул"
+	},
+	{
+		"national_id" : 660,
+		"national_parent_id" : 659,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 632,
+		"national_name_ua" : "рутули"
+	},
+	{
+		"national_id" : 659,
+		"national_parent_id" : null,
+		"national_group" : 659,
+		"national_language_id" : 253,
+		"national_print_order" : 633,
+		"national_name_ua" : "рутульці"
+	},
+	{
+		"national_id" : 665,
+		"national_parent_id" : null,
+		"national_group" : 665,
+		"national_language_id" : 255,
+		"national_print_order" : 634,
+		"national_name_ua" : "саамі"
+	},
+	{
+		"national_id" : 603,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 635,
+		"national_name_ua" : "саксонці"
+	},
+	{
+		"national_id" : 771,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 636,
+		"national_name_ua" : "салири"
+	},
+	{
+		"national_id" : 668,
+		"national_parent_id" : 665,
+		"national_group" : 665,
+		"national_language_id" : 255,
+		"national_print_order" : 637,
+		"national_name_ua" : "самі"
+	},
+	{
+		"national_id" : 437,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 638,
+		"national_name_ua" : "самогіти"
+	},
+	{
+		"national_id" : 32,
+		"national_parent_id" : 27,
+		"national_group" : 27,
+		"national_language_id" : 3,
+		"national_print_order" : 639,
+		"national_name_ua" : "самурзакани"
+	},
+	{
+		"national_id" : 566,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 640,
+		"national_name_ua" : "сантали"
+	},
+	{
+		"national_id" : 524,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 641,
+		"national_name_ua" : "сантомейці"
+	},
+	{
+		"national_id" : 772,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 642,
+		"national_name_ua" : "сарики"
+	},
+	{
+		"national_id" : 115,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 643,
+		"national_name_ua" : "саудівці"
+	},
+	{
+		"national_id" : 236,
+		"national_parent_id" : 234,
+		"national_group" : 234,
+		"national_language_id" : 53,
+		"national_print_order" : 644,
+		"national_name_ua" : "саха"
+	},
+	{
+		"national_id" : 898,
+		"national_parent_id" : 897,
+		"national_group" : 897,
+		"national_language_id" : 310,
+		"national_print_order" : 645,
+		"national_name_ua" : "саха"
+	},
+	{
+		"national_id" : 773,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 646,
+		"national_name_ua" : "сахари"
+	},
+	{
+		"national_id" : 525,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 647,
+		"national_name_ua" : "свазі"
+	},
+	{
+		"national_id" : 526,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 648,
+		"national_name_ua" : "свана"
+	},
+	{
+		"national_id" : 221,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 649,
+		"national_name_ua" : "свани"
+	},
+	{
+		"national_id" : 882,
+		"national_parent_id" : 881,
+		"national_group" : 881,
+		"national_language_id" : 307,
+		"national_print_order" : 650,
+		"national_name_ua" : "свенскар"
+	},
+	{
+		"national_id" : 821,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 651,
+		"national_name_ua" : "себуано"
+	},
+	{
+		"national_id" : 527,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 652,
+		"national_name_ua" : "сейшельці"
+	},
+	{
+		"national_id" : 420,
+		"national_parent_id" : 412,
+		"national_group" : 412,
+		"national_language_id" : 114,
+		"national_print_order" : 653,
+		"national_name_ua" : "сели"
+	},
+	{
+		"national_id" : 669,
+		"national_parent_id" : null,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 654,
+		"national_name_ua" : "селькупи"
+	},
+	{
+		"national_id" : 528,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 655,
+		"national_name_ua" : "сенегальці"
+	},
+	{
+		"national_id" : 529,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 656,
+		"national_name_ua" : "сенуфо"
+	},
+	{
+		"national_id" : 676,
+		"national_parent_id" : null,
+		"national_group" : 676,
+		"national_language_id" : 258,
+		"national_print_order" : 657,
+		"national_name_ua" : "серби"
+	},
+	{
+		"national_id" : 260,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 658,
+		"national_name_ua" : "сето"
+	},
+	{
+		"national_id" : 261,
+		"national_parent_id" : 255,
+		"national_group" : 255,
+		"national_language_id" : 61,
+		"national_print_order" : 659,
+		"national_name_ua" : "сету"
+	},
+	{
+		"national_id" : 567,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 660,
+		"national_name_ua" : "сингали"
+	},
+	{
+		"national_id" : 116,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 661,
+		"national_name_ua" : "сирійці"
+	},
+	{
+		"national_id" : 125,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 662,
+		"national_name_ua" : "сиро-халдеї"
+	},
+	{
+		"national_id" : 708,
+		"national_parent_id" : 705,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 663,
+		"national_name_ua" : "сіамці"
+	},
+	{
+		"national_id" : 636,
+		"national_parent_id" : 633,
+		"national_group" : 633,
+		"national_language_id" : 241,
+		"national_print_order" : 664,
+		"national_name_ua" : "сілезці"
+	},
+	{
+		"national_id" : 568,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 665,
+		"national_name_ua" : "сіндхи"
+	},
+	{
+		"national_id" : 891,
+		"national_parent_id" : 890,
+		"national_group" : 890,
+		"national_language_id" : 17,
+		"national_print_order" : 666,
+		"national_name_ua" : "скотс"
+	},
+	{
+		"national_id" : 16,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 667,
+		"national_name_ua" : "слобожанці"
+	},
+	{
+		"national_id" : 678,
+		"national_parent_id" : null,
+		"national_group" : 678,
+		"national_language_id" : 264,
+		"national_print_order" : 668,
+		"national_name_ua" : "словаки"
+	},
+	{
+		"national_id" : 679,
+		"national_parent_id" : 678,
+		"national_group" : 678,
+		"national_language_id" : 264,
+		"national_print_order" : 669,
+		"national_name_ua" : "словаці"
+	},
+	{
+		"national_id" : 680,
+		"national_parent_id" : null,
+		"national_group" : 680,
+		"national_language_id" : 265,
+		"national_print_order" : 670,
+		"national_name_ua" : "словенці"
+	},
+	{
+		"national_id" : 742,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 671,
+		"national_name_ua" : "сойони"
+	},
+	{
+		"national_id" : 743,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 672,
+		"national_name_ua" : "сойоти"
+	},
+	{
+		"national_id" : 530,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 673,
+		"national_name_ua" : "сомалі"
+	},
+	{
+		"national_id" : 179,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 674,
+		"national_name_ua" : "сомехи"
+	},
+	{
+		"national_id" : 531,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 675,
+		"national_name_ua" : "сото"
+	},
+	{
+		"national_id" : 677,
+		"national_parent_id" : 676,
+		"national_group" : 676,
+		"national_language_id" : 258,
+		"national_print_order" : 676,
+		"national_name_ua" : "срби"
+	},
+	{
+		"national_id" : 532,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 677,
+		"national_name_ua" : "суахілі"
+	},
+	{
+		"national_id" : 438,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 678,
+		"national_name_ua" : "сувалки"
+	},
+	{
+		"national_id" : 117,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 679,
+		"national_name_ua" : "суданці"
+	},
+	{
+		"national_id" : 439,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 680,
+		"national_name_ua" : "судови"
+	},
+	{
+		"national_id" : 296,
+		"national_parent_id" : 293,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 681,
+		"national_name_ua" : "сунди"
+	},
+	{
+		"national_id" : 826,
+		"national_parent_id" : 825,
+		"national_group" : 825,
+		"national_language_id" : 294,
+		"national_print_order" : 682,
+		"national_name_ua" : "суомалайсет"
+	},
+	{
+		"national_id" : 827,
+		"national_parent_id" : 825,
+		"national_group" : 825,
+		"national_language_id" : 294,
+		"national_print_order" : 683,
+		"national_name_ua" : "суомі"
+	},
+	{
+		"national_id" : 126,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 684,
+		"national_name_ua" : "сурая"
+	},
+	{
+		"national_id" : 127,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 685,
+		"national_name_ua" : "суріани"
+	},
+	{
+		"national_id" : 673,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 686,
+		"national_name_ua" : "сусе кум"
+	},
+	{
+		"national_id" : 670,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 687,
+		"national_name_ua" : "сьолькуп"
+	},
+	{
+		"national_id" : 682,
+		"national_parent_id" : 681,
+		"national_group" : 681,
+		"national_language_id" : 266,
+		"national_print_order" : 688,
+		"national_name_ua" : "табасаран"
+	},
+	{
+		"national_id" : 683,
+		"national_parent_id" : 681,
+		"national_group" : 681,
+		"national_language_id" : 266,
+		"national_print_order" : 689,
+		"national_name_ua" : "табасаранар"
+	},
+	{
+		"national_id" : 681,
+		"national_parent_id" : null,
+		"national_group" : 681,
+		"national_language_id" : 266,
+		"national_print_order" : 690,
+		"national_name_ua" : "табасарани"
+	},
+	{
+		"national_id" : 324,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 691,
+		"national_name_ua" : "табин"
+	},
+	{
+		"national_id" : 576,
+		"national_parent_id" : 573,
+		"national_group" : 573,
+		"national_language_id" : 218,
+		"national_print_order" : 692,
+		"national_name_ua" : "тавгійці"
+	},
+	{
+		"national_id" : 822,
+		"national_parent_id" : 818,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 693,
+		"national_name_ua" : "тагальці"
+	},
+	{
+		"national_id" : 839,
+		"national_parent_id" : 837,
+		"national_group" : 837,
+		"national_language_id" : 298,
+		"national_print_order" : 694,
+		"national_name_ua" : "тадар"
+	},
+	{
+		"national_id" : 684,
+		"national_parent_id" : null,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 695,
+		"national_name_ua" : "таджики"
+	},
+	{
+		"national_id" : 710,
+		"national_parent_id" : 705,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 696,
+		"national_name_ua" : "таїландці"
+	},
+	{
+		"national_id" : 706,
+		"national_parent_id" : 705,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 697,
+		"national_name_ua" : "тай"
+	},
+	{
+		"national_id" : 705,
+		"national_parent_id" : null,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 698,
+		"national_name_ua" : "тайці"
+	},
+	{
+		"national_id" : 711,
+		"national_parent_id" : null,
+		"national_group" : 711,
+		"national_language_id" : 274,
+		"national_print_order" : 699,
+		"national_name_ua" : "талиші"
+	},
+	{
+		"national_id" : 325,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 700,
+		"national_name_ua" : "тама"
+	},
+	{
+		"national_id" : 569,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 701,
+		"national_name_ua" : "таміли"
+	},
+	{
+		"national_id" : 533,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 702,
+		"national_name_ua" : "танзанійці"
+	},
+	{
+		"national_id" : 25,
+		"national_parent_id" : 23,
+		"national_group" : 23,
+		"national_language_id" : 2,
+		"national_print_order" : 703,
+		"national_name_ua" : "тапанта"
+	},
+	{
+		"national_id" : 730,
+		"national_parent_id" : 729,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 704,
+		"national_name_ua" : "тат"
+	},
+	{
+		"national_id" : 715,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 705,
+		"national_name_ua" : "татар"
+	},
+	{
+		"national_id" : 714,
+		"national_parent_id" : null,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 706,
+		"national_name_ua" : "татари"
+	},
+	{
+		"national_id" : 723,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 707,
+		"national_name_ua" : "татари астраханські"
+	},
+	{
+		"national_id" : 724,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 708,
+		"national_name_ua" : "татари казанські"
+	},
+	{
+		"national_id" : 725,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 709,
+		"national_name_ua" : "татари сибірські"
+	},
+	{
+		"national_id" : 716,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 710,
+		"national_name_ua" : "татарлар"
+	},
+	{
+		"national_id" : 196,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 711,
+		"national_name_ua" : "тати"
+	},
+	{
+		"national_id" : 391,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 712,
+		"national_name_ua" : "тати"
+	},
+	{
+		"national_id" : 729,
+		"national_parent_id" : null,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 713,
+		"national_name_ua" : "тати"
+	},
+	{
+		"national_id" : 731,
+		"national_parent_id" : 729,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 714,
+		"national_name_ua" : "тати-азербайджанці"
+	},
+	{
+		"national_id" : 732,
+		"national_parent_id" : 729,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 715,
+		"national_name_ua" : "тати-вірмени"
+	},
+	{
+		"national_id" : 733,
+		"national_parent_id" : 729,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 716,
+		"national_name_ua" : "тати-греки"
+	},
+	{
+		"national_id" : 734,
+		"national_parent_id" : 729,
+		"national_group" : 729,
+		"national_language_id" : 276,
+		"national_print_order" : 717,
+		"national_name_ua" : "тати-мусульмани"
+	},
+	{
+		"national_id" : 271,
+		"national_parent_id" : 270,
+		"national_group" : 270,
+		"national_language_id" : 276,
+		"national_print_order" : 718,
+		"national_name_ua" : "татські євреї"
+	},
+	{
+		"national_id" : 133,
+		"national_parent_id" : 132,
+		"national_group" : 132,
+		"national_language_id" : 87,
+		"national_print_order" : 719,
+		"national_name_ua" : "таулу"
+	},
+	{
+		"national_id" : 604,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 720,
+		"national_name_ua" : "тевтони"
+	},
+	{
+		"national_id" : 605,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 721,
+		"national_name_ua" : "тедески"
+	},
+	{
+		"national_id" : 774,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 722,
+		"national_name_ua" : "теке"
+	},
+	{
+		"national_id" : 775,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 723,
+		"national_name_ua" : "текке"
+	},
+	{
+		"national_id" : 86,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 724,
+		"national_name_ua" : "теленгіти"
+	},
+	{
+		"national_id" : 87,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 725,
+		"national_name_ua" : "телеути"
+	},
+	{
+		"national_id" : 570,
+		"national_parent_id" : 542,
+		"national_group" : 542,
+		"national_language_id" : 177,
+		"national_print_order" : 726,
+		"national_name_ua" : "телугу"
+	},
+	{
+		"national_id" : 54,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 727,
+		"national_name_ua" : "темиргоївці"
+	},
+	{
+		"national_id" : 138,
+		"national_parent_id" : 135,
+		"national_group" : 135,
+		"national_language_id" : 26,
+		"national_print_order" : 728,
+		"national_name_ua" : "тептяри"
+	},
+	{
+		"national_id" : 726,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 729,
+		"national_name_ua" : "тептяри"
+	},
+	{
+		"national_id" : 471,
+		"national_parent_id" : 465,
+		"national_group" : 465,
+		"national_language_id" : 214,
+		"national_print_order" : 730,
+		"national_name_ua" : "терюхані"
+	},
+	{
+		"national_id" : 237,
+		"national_parent_id" : 234,
+		"national_group" : 234,
+		"national_language_id" : 53,
+		"national_print_order" : 731,
+		"national_name_ua" : "тиа-кіхі"
+	},
+	{
+		"national_id" : 740,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 732,
+		"national_name_ua" : "тива"
+	},
+	{
+		"national_id" : 741,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 733,
+		"national_name_ua" : "тива-кіжи"
+	},
+	{
+		"national_id" : 534,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 734,
+		"national_name_ua" : "тиграї"
+	},
+	{
+		"national_id" : 535,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 735,
+		"national_name_ua" : "тигринья"
+	},
+	{
+		"national_id" : 536,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 736,
+		"national_name_ua" : "тоголезці"
+	},
+	{
+		"national_id" : 685,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 737,
+		"national_name_ua" : "тоджик"
+	},
+	{
+		"national_id" : 744,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 738,
+		"national_name_ua" : "тоджинці"
+	},
+	{
+		"national_id" : 713,
+		"national_parent_id" : 711,
+		"national_group" : 711,
+		"national_language_id" : 274,
+		"national_print_order" : 739,
+		"national_name_ua" : "толиш"
+	},
+	{
+		"national_id" : 712,
+		"national_parent_id" : 711,
+		"national_group" : 711,
+		"national_language_id" : 274,
+		"national_print_order" : 740,
+		"national_name_ua" : "толишон"
+	},
+	{
+		"national_id" : 332,
+		"national_parent_id" : 328,
+		"national_group" : 328,
+		"national_language_id" : 84,
+		"national_print_order" : 741,
+		"national_name_ua" : "торгути"
+	},
+	{
+		"national_id" : 326,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 742,
+		"national_name_ua" : "торкара"
+	},
+	{
+		"national_id" : 78,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 743,
+		"national_name_ua" : "тоски"
+	},
+	{
+		"national_id" : 736,
+		"national_parent_id" : 735,
+		"national_group" : 735,
+		"national_language_id" : 279,
+		"national_print_order" : 744,
+		"national_name_ua" : "тофа"
+	},
+	{
+		"national_id" : 735,
+		"national_parent_id" : null,
+		"national_group" : 735,
+		"national_language_id" : 279,
+		"national_print_order" : 745,
+		"national_name_ua" : "тофалари"
+	},
+	{
+		"national_id" : 738,
+		"national_parent_id" : 735,
+		"national_group" : 735,
+		"national_language_id" : 279,
+		"national_print_order" : 746,
+		"national_name_ua" : "тоха"
+	},
+	{
+		"national_id" : 776,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 747,
+		"national_name_ua" : "трухмени"
+	},
+	{
+		"national_id" : 88,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 748,
+		"national_name_ua" : "тубалари"
+	},
+	{
+		"national_id" : 739,
+		"national_parent_id" : null,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 749,
+		"national_name_ua" : "тувинці"
+	},
+	{
+		"national_id" : 244,
+		"national_parent_id" : 240,
+		"national_group" : 240,
+		"national_language_id" : 57,
+		"national_print_order" : 750,
+		"national_name_ua" : "тунгуси"
+	},
+	{
+		"national_id" : 248,
+		"national_parent_id" : 245,
+		"national_group" : 245,
+		"national_language_id" : 55,
+		"national_print_order" : 751,
+		"national_name_ua" : "тунгуси"
+	},
+	{
+		"national_id" : 118,
+		"national_parent_id" : 95,
+		"national_group" : 95,
+		"national_language_id" : 19,
+		"national_print_order" : 752,
+		"national_name_ua" : "тунісці"
+	},
+	{
+		"national_id" : 746,
+		"national_parent_id" : null,
+		"national_group" : 746,
+		"national_language_id" : 281,
+		"national_print_order" : 753,
+		"national_name_ua" : "турки"
+	},
+	{
+		"national_id" : 749,
+		"national_parent_id" : null,
+		"national_group" : 749,
+		"national_language_id" : 281,
+		"national_print_order" : 754,
+		"national_name_ua" : "турки-кіпріоти"
+	},
+	{
+		"national_id" : 752,
+		"national_parent_id" : null,
+		"national_group" : 752,
+		"national_language_id" : 281,
+		"national_print_order" : 755,
+		"national_name_ua" : "турки-месхетинці"
+	},
+	{
+		"national_id" : 748,
+		"national_parent_id" : 746,
+		"national_group" : 746,
+		"national_language_id" : 281,
+		"national_print_order" : 756,
+		"national_name_ua" : "турки-сельджуки"
+	},
+	{
+		"national_id" : 756,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 757,
+		"national_name_ua" : "туркмен"
+	},
+	{
+		"national_id" : 755,
+		"national_parent_id" : null,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 758,
+		"national_name_ua" : "туркмени"
+	},
+	{
+		"national_id" : 222,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 759,
+		"national_name_ua" : "тушини"
+	},
+	{
+		"national_id" : 707,
+		"national_parent_id" : 705,
+		"national_group" : 705,
+		"national_language_id" : 271,
+		"national_print_order" : 760,
+		"national_name_ua" : "тхай"
+	},
+	{
+		"national_id" : 68,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 761,
+		"national_name_ua" : "тюрк"
+	},
+	{
+		"national_id" : 747,
+		"national_parent_id" : 746,
+		"national_group" : 746,
+		"national_language_id" : 281,
+		"national_print_order" : 762,
+		"national_name_ua" : "тюрк"
+	},
+	{
+		"national_id" : 753,
+		"national_parent_id" : 752,
+		"national_group" : 752,
+		"national_language_id" : 281,
+		"national_print_order" : 763,
+		"national_name_ua" : "тюрк"
+	},
+	{
+		"national_id" : 777,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 764,
+		"national_name_ua" : "тюрк"
+	},
+	{
+		"national_id" : 809,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 765,
+		"national_name_ua" : "тюрк"
+	},
+	{
+		"national_id" : 327,
+		"national_parent_id" : 310,
+		"national_group" : 310,
+		"national_language_id" : 83,
+		"national_print_order" : 766,
+		"national_name_ua" : "уак"
+	},
+	{
+		"national_id" : 537,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 767,
+		"national_name_ua" : "угандійці"
+	},
+	{
+		"national_id" : 782,
+		"national_parent_id" : null,
+		"national_group" : 782,
+		"national_language_id" : 284,
+		"national_print_order" : 768,
+		"national_name_ua" : "угорці"
+	},
+	{
+		"national_id" : 786,
+		"national_parent_id" : 784,
+		"national_group" : 784,
+		"national_language_id" : 286,
+		"national_print_order" : 769,
+		"national_name_ua" : "удеге"
+	},
+	{
+		"national_id" : 784,
+		"national_parent_id" : null,
+		"national_group" : 784,
+		"national_language_id" : 286,
+		"national_print_order" : 770,
+		"national_name_ua" : "удегейці"
+	},
+	{
+		"national_id" : 785,
+		"national_parent_id" : 784,
+		"national_group" : 784,
+		"national_language_id" : 286,
+		"national_print_order" : 771,
+		"national_name_ua" : "удее"
+	},
+	{
+		"national_id" : 789,
+		"national_parent_id" : null,
+		"national_group" : 789,
+		"national_language_id" : 287,
+		"national_print_order" : 772,
+		"national_name_ua" : "удини"
+	},
+	{
+		"national_id" : 787,
+		"national_parent_id" : 784,
+		"national_group" : 784,
+		"national_language_id" : 286,
+		"national_print_order" : 773,
+		"national_name_ua" : "удихе"
+	},
+	{
+		"national_id" : 790,
+		"national_parent_id" : 789,
+		"national_group" : 789,
+		"national_language_id" : 287,
+		"national_print_order" : 774,
+		"national_name_ua" : "уді"
+	},
+	{
+		"national_id" : 788,
+		"national_parent_id" : 784,
+		"national_group" : 784,
+		"national_language_id" : 286,
+		"national_print_order" : 775,
+		"national_name_ua" : "удіге"
+	},
+	{
+		"national_id" : 794,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 776,
+		"national_name_ua" : "удморт"
+	},
+	{
+		"national_id" : 793,
+		"national_parent_id" : 792,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 777,
+		"national_name_ua" : "удмурт"
+	},
+	{
+		"national_id" : 792,
+		"national_parent_id" : null,
+		"national_group" : 792,
+		"national_language_id" : 288,
+		"national_print_order" : 778,
+		"national_name_ua" : "удмурти"
+	},
+	{
+		"national_id" : 801,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 779,
+		"national_name_ua" : "узбек"
+	},
+	{
+		"national_id" : 800,
+		"national_parent_id" : null,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 780,
+		"national_name_ua" : "узбеки"
+	},
+	{
+		"national_id" : 813,
+		"national_parent_id" : 812,
+		"national_group" : 812,
+		"national_language_id" : 291,
+		"national_print_order" : 781,
+		"national_name_ua" : "уйгур"
+	},
+	{
+		"national_id" : 812,
+		"national_parent_id" : null,
+		"national_group" : 812,
+		"national_language_id" : 291,
+		"national_print_order" : 782,
+		"national_name_ua" : "уйгури"
+	},
+	{
+		"national_id" : 613,
+		"national_parent_id" : 612,
+		"national_group" : 612,
+		"national_language_id" : 227,
+		"national_print_order" : 783,
+		"national_name_ua" : "ульта"
+	},
+	{
+		"national_id" : 615,
+		"national_parent_id" : 612,
+		"national_group" : 612,
+		"national_language_id" : 227,
+		"national_print_order" : 784,
+		"national_name_ua" : "ульча"
+	},
+	{
+		"national_id" : 817,
+		"national_parent_id" : 814,
+		"national_group" : 814,
+		"national_language_id" : 292,
+		"national_print_order" : 785,
+		"national_name_ua" : "ульча"
+	},
+	{
+		"national_id" : 814,
+		"national_parent_id" : null,
+		"national_group" : 814,
+		"national_language_id" : 292,
+		"national_print_order" : 786,
+		"national_name_ua" : "ульчі"
+	},
+	{
+		"national_id" : 81,
+		"national_parent_id" : 79,
+		"national_group" : 79,
+		"national_language_id" : 15,
+		"national_print_order" : 787,
+		"national_name_ua" : "унанган"
+	},
+	{
+		"national_id" : 195,
+		"national_parent_id" : 188,
+		"national_group" : 188,
+		"national_language_id" : 39,
+		"national_print_order" : 788,
+		"national_name_ua" : "уруми"
+	},
+	{
+		"national_id" : 745,
+		"national_parent_id" : 739,
+		"national_group" : 739,
+		"national_language_id" : 280,
+		"national_print_order" : 789,
+		"national_name_ua" : "урянхайці"
+	},
+	{
+		"national_id" : 392,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 790,
+		"national_name_ua" : "ускути"
+	},
+	{
+		"national_id" : 791,
+		"national_parent_id" : 789,
+		"national_group" : 789,
+		"national_language_id" : 287,
+		"national_print_order" : 791,
+		"national_name_ua" : "уті"
+	},
+	{
+		"national_id" : 644,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 792,
+		"national_name_ua" : "фараони"
+	},
+	{
+		"national_id" : 627,
+		"national_parent_id" : 626,
+		"national_group" : 626,
+		"national_language_id" : 232,
+		"national_print_order" : 793,
+		"national_name_ua" : "фарси"
+	},
+	{
+		"national_id" : 696,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 794,
+		"national_name_ua" : "фарсіван"
+	},
+	{
+		"national_id" : 818,
+		"national_parent_id" : null,
+		"national_group" : 818,
+		"national_language_id" : 234,
+		"national_print_order" : 795,
+		"national_name_ua" : "філіппінці"
+	},
+	{
+		"national_id" : 825,
+		"national_parent_id" : null,
+		"national_group" : 825,
+		"national_language_id" : 294,
+		"national_print_order" : 796,
+		"national_name_ua" : "фіни"
+	},
+	{
+		"national_id" : 829,
+		"national_parent_id" : 825,
+		"national_group" : 825,
+		"national_language_id" : 294,
+		"national_print_order" : 797,
+		"national_name_ua" : "фіни-інгерманландці"
+	},
+	{
+		"national_id" : 830,
+		"national_parent_id" : null,
+		"national_group" : 830,
+		"national_language_id" : 36,
+		"national_print_order" : 798,
+		"national_name_ua" : "фламандці"
+	},
+	{
+		"national_id" : 831,
+		"national_parent_id" : 830,
+		"national_group" : 830,
+		"national_language_id" : 36,
+		"national_print_order" : 799,
+		"national_name_ua" : "фламінген"
+	},
+	{
+		"national_id" : 183,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 800,
+		"national_name_ua" : "франк"
+	},
+	{
+		"national_id" : 885,
+		"national_parent_id" : 883,
+		"national_group" : 883,
+		"national_language_id" : 296,
+		"national_print_order" : 801,
+		"national_name_ua" : "франко-швейцарці"
+	},
+	{
+		"national_id" : 834,
+		"national_parent_id" : 833,
+		"national_group" : 833,
+		"national_language_id" : 296,
+		"national_print_order" : 802,
+		"national_name_ua" : "франсе"
+	},
+	{
+		"national_id" : 833,
+		"national_parent_id" : null,
+		"national_group" : 833,
+		"national_language_id" : 296,
+		"national_print_order" : 803,
+		"national_name_ua" : "французи"
+	},
+	{
+		"national_id" : 538,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 804,
+		"national_name_ua" : "фульбе"
+	},
+	{
+		"national_id" : 836,
+		"national_parent_id" : 835,
+		"national_group" : 835,
+		"national_language_id" : 267,
+		"national_print_order" : 805,
+		"national_name_ua" : "хазар"
+	},
+	{
+		"national_id" : 835,
+		"national_parent_id" : null,
+		"national_group" : 835,
+		"national_language_id" : 267,
+		"national_print_order" : 806,
+		"national_name_ua" : "хазарейці"
+	},
+	{
+		"national_id" : 838,
+		"national_parent_id" : 837,
+		"national_group" : 837,
+		"national_language_id" : 298,
+		"national_print_order" : 807,
+		"national_name_ua" : "хакас"
+	},
+	{
+		"national_id" : 837,
+		"national_parent_id" : null,
+		"national_group" : 837,
+		"national_language_id" : 298,
+		"national_print_order" : 808,
+		"national_name_ua" : "хакаси"
+	},
+	{
+		"national_id" : 128,
+		"national_parent_id" : 121,
+		"national_group" : 121,
+		"national_language_id" : 21,
+		"national_print_order" : 809,
+		"national_name_ua" : "халдеї"
+	},
+	{
+		"national_id" : 840,
+		"national_parent_id" : null,
+		"national_group" : 840,
+		"national_language_id" : 212,
+		"national_print_order" : 810,
+		"national_name_ua" : "халха"
+	},
+	{
+		"national_id" : 842,
+		"national_parent_id" : 840,
+		"national_group" : 840,
+		"national_language_id" : 212,
+		"national_print_order" : 811,
+		"national_name_ua" : "халха-монголи"
+	},
+	{
+		"national_id" : 841,
+		"national_parent_id" : 840,
+		"national_group" : 840,
+		"national_language_id" : 212,
+		"national_print_order" : 812,
+		"national_name_ua" : "халхасці"
+	},
+	{
+		"national_id" : 329,
+		"national_parent_id" : 328,
+		"national_group" : 328,
+		"national_language_id" : 84,
+		"national_print_order" : 813,
+		"national_name_ua" : "хальмг"
+	},
+	{
+		"national_id" : 158,
+		"national_parent_id" : 154,
+		"national_group" : 154,
+		"national_language_id" : 30,
+		"national_print_order" : 814,
+		"national_name_ua" : "хамнігани"
+	},
+	{
+		"national_id" : 180,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 815,
+		"national_name_ua" : "хамшени"
+	},
+	{
+		"national_id" : 377,
+		"national_parent_id" : 375,
+		"national_group" : 375,
+		"national_language_id" : 99,
+		"national_print_order" : 816,
+		"national_name_ua" : "хангуг сарам"
+	},
+	{
+		"national_id" : 584,
+		"national_parent_id" : 582,
+		"national_group" : 582,
+		"national_language_id" : 220,
+		"national_print_order" : 817,
+		"national_name_ua" : "хандеяри"
+	},
+	{
+		"national_id" : 844,
+		"national_parent_id" : null,
+		"national_group" : 844,
+		"national_language_id" : 299,
+		"national_print_order" : 818,
+		"national_name_ua" : "ханти"
+	},
+	{
+		"national_id" : 359,
+		"national_parent_id" : 357,
+		"national_group" : 357,
+		"national_language_id" : 93,
+		"national_print_order" : 819,
+		"national_name_ua" : "хань"
+	},
+	{
+		"national_id" : 358,
+		"national_parent_id" : 357,
+		"national_group" : 357,
+		"national_language_id" : 93,
+		"national_print_order" : 820,
+		"national_name_ua" : "ханьжень"
+	},
+	{
+		"national_id" : 360,
+		"national_parent_id" : 357,
+		"national_group" : 357,
+		"national_language_id" : 93,
+		"national_print_order" : 821,
+		"national_name_ua" : "ханьцзу"
+	},
+	{
+		"national_id" : 697,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 822,
+		"national_name_ua" : "хардури"
+	},
+	{
+		"national_id" : 585,
+		"national_parent_id" : 582,
+		"national_group" : 582,
+		"national_language_id" : 220,
+		"national_print_order" : 823,
+		"national_name_ua" : "хасова"
+	},
+	{
+		"national_id" : 539,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 824,
+		"national_name_ua" : "хауса"
+	},
+	{
+		"national_id" : 223,
+		"national_parent_id" : 200,
+		"national_group" : 200,
+		"national_language_id" : 45,
+		"national_print_order" : 825,
+		"national_name_ua" : "хевсури"
+	},
+	{
+		"national_id" : 181,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 826,
+		"national_name_ua" : "хемшили"
+	},
+	{
+		"national_id" : 182,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 827,
+		"national_name_ua" : "хемшини"
+	},
+	{
+		"national_id" : 17,
+		"national_parent_id" : 1,
+		"national_group" : 1,
+		"national_language_id" : 1,
+		"national_print_order" : 828,
+		"national_name_ua" : "холмщаки"
+	},
+	{
+		"national_id" : 698,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 829,
+		"national_name_ua" : "хорасані"
+	},
+	{
+		"national_id" : 846,
+		"national_parent_id" : null,
+		"national_group" : 846,
+		"national_language_id" : 258,
+		"national_print_order" : 830,
+		"national_name_ua" : "хорвати"
+	},
+	{
+		"national_id" : 847,
+		"national_parent_id" : 846,
+		"national_group" : 846,
+		"national_language_id" : 258,
+		"national_print_order" : 831,
+		"national_name_ua" : "хрвати"
+	},
+	{
+		"national_id" : 699,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 832,
+		"national_name_ua" : "хуфці"
+	},
+	{
+		"national_id" : 850,
+		"national_parent_id" : null,
+		"national_group" : 850,
+		"national_language_id" : 301,
+		"national_print_order" : 833,
+		"national_name_ua" : "цахури"
+	},
+	{
+		"national_id" : 540,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 834,
+		"national_name_ua" : "центральноафриканці"
+	},
+	{
+		"national_id" : 645,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 835,
+		"national_name_ua" : "цигани"
+	},
+	{
+		"national_id" : 646,
+		"national_parent_id" : 639,
+		"national_group" : 639,
+		"national_language_id" : 244,
+		"national_print_order" : 836,
+		"national_name_ua" : "цигани середньоазійські"
+	},
+	{
+		"national_id" : 868,
+		"national_parent_id" : 867,
+		"national_group" : 867,
+		"national_language_id" : 258,
+		"national_print_order" : 837,
+		"national_name_ua" : "црногорці"
+	},
+	{
+		"national_id" : 727,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 838,
+		"national_name_ua" : "цулимські татари"
+	},
+	{
+		"national_id" : 728,
+		"national_parent_id" : 714,
+		"national_group" : 714,
+		"national_language_id" : 275,
+		"national_print_order" : 839,
+		"national_name_ua" : "цулимські тюрки"
+	},
+	{
+		"national_id" : 873,
+		"national_parent_id" : 872,
+		"national_group" : 872,
+		"national_language_id" : 305,
+		"national_print_order" : 840,
+		"national_name_ua" : "чаваш"
+	},
+	{
+		"national_id" : 382,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 841,
+		"national_name_ua" : "чавчив"
+	},
+	{
+		"national_id" : 383,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 842,
+		"national_name_ua" : "чавчу"
+	},
+	{
+		"national_id" : 384,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 843,
+		"national_name_ua" : "чавчувени"
+	},
+	{
+		"national_id" : 700,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 844,
+		"national_name_ua" : "чагатай"
+	},
+	{
+		"national_id" : 810,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 845,
+		"national_name_ua" : "чагатай"
+	},
+	{
+		"national_id" : 541,
+		"national_parent_id" : 476,
+		"national_group" : 476,
+		"national_language_id" : 124,
+		"national_print_order" : 846,
+		"national_name_ua" : "чадці"
+	},
+	{
+		"national_id" : 877,
+		"national_parent_id" : 876,
+		"national_group" : 876,
+		"national_language_id" : 306,
+		"national_print_order" : 847,
+		"national_name_ua" : "чаучу"
+	},
+	{
+		"national_id" : 89,
+		"national_parent_id" : 82,
+		"national_group" : 82,
+		"national_language_id" : 16,
+		"national_print_order" : 848,
+		"national_name_ua" : "челканці"
+	},
+	{
+		"national_id" : 457,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 849,
+		"national_name_ua" : "чемериси"
+	},
+	{
+		"national_id" : 458,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 850,
+		"national_name_ua" : "черемиси"
+	},
+	{
+		"national_id" : 459,
+		"national_parent_id" : 453,
+		"national_group" : 453,
+		"national_language_id" : 123,
+		"national_print_order" : 851,
+		"national_name_ua" : "череміси"
+	},
+	{
+		"national_id" : 852,
+		"national_parent_id" : null,
+		"national_group" : 852,
+		"national_language_id" : 79,
+		"national_print_order" : 852,
+		"national_name_ua" : "черкеси"
+	},
+	{
+		"national_id" : 178,
+		"national_parent_id" : 174,
+		"national_group" : 174,
+		"national_language_id" : 34,
+		"national_print_order" : 853,
+		"national_name_ua" : "черкесо-гайн"
+	},
+	{
+		"national_id" : 855,
+		"national_parent_id" : null,
+		"national_group" : 855,
+		"national_language_id" : 302,
+		"national_print_order" : 854,
+		"national_name_ua" : "чехи"
+	},
+	{
+		"national_id" : 859,
+		"national_parent_id" : null,
+		"national_group" : 859,
+		"national_language_id" : 303,
+		"national_print_order" : 855,
+		"national_name_ua" : "чеченці"
+	},
+	{
+		"national_id" : 856,
+		"national_parent_id" : 855,
+		"national_group" : 855,
+		"national_language_id" : 302,
+		"national_print_order" : 856,
+		"national_name_ua" : "чеші"
+	},
+	{
+		"national_id" : 361,
+		"national_parent_id" : 357,
+		"national_group" : 357,
+		"national_language_id" : 93,
+		"national_print_order" : 857,
+		"national_name_ua" : "чжунго жень"
+	},
+	{
+		"national_id" : 379,
+		"national_parent_id" : 378,
+		"national_group" : 378,
+		"national_language_id" : 100,
+		"national_print_order" : 858,
+		"national_name_ua" : "чивчив"
+	},
+	{
+		"national_id" : 865,
+		"national_parent_id" : null,
+		"national_group" : 865,
+		"national_language_id" : 76,
+		"national_print_order" : 859,
+		"national_name_ua" : "чилійці"
+	},
+	{
+		"national_id" : 866,
+		"national_parent_id" : 865,
+		"national_group" : 865,
+		"national_language_id" : 76,
+		"national_print_order" : 860,
+		"national_name_ua" : "чіленьо"
+	},
+	{
+		"national_id" : 778,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 861,
+		"national_name_ua" : "човдури"
+	},
+	{
+		"national_id" : 867,
+		"national_parent_id" : null,
+		"national_group" : 867,
+		"national_language_id" : 258,
+		"national_print_order" : 862,
+		"national_name_ua" : "чорногорці"
+	},
+	{
+		"national_id" : 376,
+		"national_parent_id" : 375,
+		"national_group" : 375,
+		"national_language_id" : 99,
+		"national_print_order" : 863,
+		"national_name_ua" : "чосон сарам"
+	},
+	{
+		"national_id" : 779,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 864,
+		"national_name_ua" : "чоудар"
+	},
+	{
+		"national_id" : 869,
+		"national_parent_id" : null,
+		"national_group" : 869,
+		"national_language_id" : 304,
+		"national_print_order" : 865,
+		"national_name_ua" : "чуванці"
+	},
+	{
+		"national_id" : 872,
+		"national_parent_id" : null,
+		"national_group" : 872,
+		"national_language_id" : 305,
+		"national_print_order" : 866,
+		"national_name_ua" : "чуваші"
+	},
+	{
+		"national_id" : 780,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 867,
+		"national_name_ua" : "чудур"
+	},
+	{
+		"national_id" : 173,
+		"national_parent_id" : 166,
+		"national_group" : 166,
+		"national_language_id" : 32,
+		"national_print_order" : 868,
+		"national_name_ua" : "чудь"
+	},
+	{
+		"national_id" : 876,
+		"national_parent_id" : null,
+		"national_group" : 876,
+		"national_language_id" : 306,
+		"national_print_order" : 869,
+		"national_name_ua" : "чукчі"
+	},
+	{
+		"national_id" : 674,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 870,
+		"national_name_ua" : "чумиль куп"
+	},
+	{
+		"national_id" : 56,
+		"national_parent_id" : 49,
+		"national_group" : 49,
+		"national_language_id" : 6,
+		"national_print_order" : 871,
+		"national_name_ua" : "шапсуги"
+	},
+	{
+		"national_id" : 701,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 872,
+		"national_name_ua" : "шахдаринці"
+	},
+	{
+		"national_id" : 69,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 873,
+		"national_name_ua" : "шахсвени"
+	},
+	{
+		"national_id" : 70,
+		"national_parent_id" : 57,
+		"national_group" : 57,
+		"national_language_id" : 8,
+		"national_print_order" : 874,
+		"national_name_ua" : "шахсевени"
+	},
+	{
+		"national_id" : 606,
+		"national_parent_id" : 591,
+		"national_group" : 591,
+		"national_language_id" : 223,
+		"national_print_order" : 875,
+		"national_name_ua" : "шваби"
+	},
+	{
+		"national_id" : 881,
+		"national_parent_id" : null,
+		"national_group" : 881,
+		"national_language_id" : 307,
+		"national_print_order" : 876,
+		"national_name_ua" : "шведи"
+	},
+	{
+		"national_id" : 883,
+		"national_parent_id" : null,
+		"national_group" : 883,
+		"national_language_id" : 223,
+		"national_print_order" : 877,
+		"national_name_ua" : "швейцарці"
+	},
+	{
+		"national_id" : 781,
+		"national_parent_id" : 755,
+		"national_group" : 755,
+		"national_language_id" : 283,
+		"national_print_order" : 878,
+		"national_name_ua" : "ших"
+	},
+	{
+		"national_id" : 72,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 879,
+		"national_name_ua" : "шкиптар"
+	},
+	{
+		"national_id" : 702,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 880,
+		"national_name_ua" : "шогнанці"
+	},
+	{
+		"national_id" : 849,
+		"national_parent_id" : 846,
+		"national_group" : 846,
+		"national_language_id" : 258,
+		"national_print_order" : 881,
+		"national_name_ua" : "шокці"
+	},
+	{
+		"national_id" : 671,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 882,
+		"national_name_ua" : "шолькуп"
+	},
+	{
+		"national_id" : 888,
+		"national_parent_id" : 887,
+		"national_group" : 887,
+		"national_language_id" : 308,
+		"national_print_order" : 883,
+		"national_name_ua" : "шор"
+	},
+	{
+		"national_id" : 889,
+		"national_parent_id" : 887,
+		"national_group" : 887,
+		"national_language_id" : 308,
+		"national_print_order" : 884,
+		"national_name_ua" : "шор-кіжі"
+	},
+	{
+		"national_id" : 887,
+		"national_parent_id" : null,
+		"national_group" : 887,
+		"national_language_id" : 308,
+		"national_print_order" : 885,
+		"national_name_ua" : "шорці"
+	},
+	{
+		"national_id" : 890,
+		"national_parent_id" : null,
+		"national_group" : 890,
+		"national_language_id" : 17,
+		"national_print_order" : 886,
+		"national_name_ua" : "шотландці"
+	},
+	{
+		"national_id" : 675,
+		"national_parent_id" : 669,
+		"national_group" : 669,
+		"national_language_id" : 257,
+		"national_print_order" : 887,
+		"national_name_ua" : "шош кум"
+	},
+	{
+		"national_id" : 73,
+		"national_parent_id" : 71,
+		"national_group" : 71,
+		"national_language_id" : 12,
+		"national_print_order" : 888,
+		"national_name_ua" : "штіптар"
+	},
+	{
+		"national_id" : 353,
+		"national_parent_id" : 347,
+		"national_group" : 347,
+		"national_language_id" : 91,
+		"national_print_order" : 889,
+		"national_name_ua" : "юги"
+	},
+	{
+		"national_id" : 269,
+		"national_parent_id" : 262,
+		"national_group" : 262,
+		"national_language_id" : 62,
+		"national_print_order" : 890,
+		"national_name_ua" : "юдеї"
+	},
+	{
+		"national_id" : 811,
+		"national_parent_id" : 800,
+		"national_group" : 800,
+		"national_language_id" : 290,
+		"national_print_order" : 891,
+		"national_name_ua" : "юз"
+	},
+	{
+		"national_id" : 892,
+		"national_parent_id" : null,
+		"national_group" : 892,
+		"national_language_id" : 309,
+		"national_print_order" : 892,
+		"national_name_ua" : "юкагири"
+	},
+	{
+		"national_id" : 896,
+		"national_parent_id" : 892,
+		"national_group" : 892,
+		"national_language_id" : 309,
+		"national_print_order" : 893,
+		"national_name_ua" : "юкагір"
+	},
+	{
+		"national_id" : 294,
+		"national_parent_id" : 293,
+		"national_group" : 293,
+		"national_language_id" : 68,
+		"national_print_order" : 894,
+		"national_name_ua" : "яванці"
+	},
+	{
+		"national_id" : 703,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 895,
+		"national_name_ua" : "ягнобці"
+	},
+	{
+		"national_id" : 704,
+		"national_parent_id" : 684,
+		"national_group" : 684,
+		"national_language_id" : 267,
+		"national_print_order" : 896,
+		"national_name_ua" : "язгулямці"
+	},
+	{
+		"national_id" : 897,
+		"national_parent_id" : null,
+		"national_group" : 897,
+		"national_language_id" : 310,
+		"national_print_order" : 897,
+		"national_name_ua" : "якути"
+	},
+	{
+		"national_id" : 393,
+		"national_parent_id" : 385,
+		"national_group" : 385,
+		"national_language_id" : 102,
+		"national_print_order" : 898,
+		"national_name_ua" : "ялибойлу"
+	},
+	{
+		"national_id" : 899,
+		"national_parent_id" : null,
+		"national_group" : 899,
+		"national_language_id" : 311,
+		"national_print_order" : 899,
+		"national_name_ua" : "японці"
+	},
+	{
+		"national_id" : 440,
+		"national_parent_id" : 425,
+		"national_group" : 425,
+		"national_language_id" : 117,
+		"national_print_order" : 900,
+		"national_name_ua" : "ятвяги"
+	},
+	{
+		"national_id" : 278,
+		"national_parent_id" : 276,
+		"national_group" : 276,
+		"national_language_id" : 267,
+		"national_print_order" : 901,
+		"national_name_ua" : "яхуді"
+	}
+]

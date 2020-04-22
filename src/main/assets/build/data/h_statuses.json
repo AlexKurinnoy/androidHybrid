@@ -1,0 +1,32 @@
+[
+	{
+		"h_status_id" : 1,
+		"h_status_name" : "Не виконано",
+		"h_priority" : 5
+	},
+	{
+		"h_status_id" : 2,
+		"h_status_name" : "В роботі",
+		"h_priority" : 4
+	},
+	{
+		"h_status_id" : 3,
+		"h_status_name" : "Виконано",
+		"h_priority" : 2
+	},
+	{
+		"h_status_id" : 4,
+		"h_status_name" : "Виконано(відсутній)",
+		"h_priority" : 3
+	},
+	{
+		"h_status_id" : 5,
+		"h_status_name" : "Скасовано",
+		"h_priority" : 1
+	},
+	{
+		"h_status_id" : 6,
+		"h_status_name" : "Відправлено",
+		"h_priority" : 6
+	}
+]

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <script type="text/javascript" src="tren.json"></script>
+        <script type="text/javascript" >
+            function load() {
+               var str = 'rerererere';
+               console.log(str);
+               console.log(str.length);
+               var key = "SomeKey";
+
+               for(var i = 0; i<10; i++) {
+
+                 nativeAPP.putData(key+i, str+i);
+               }
+
+
+                var seconds = new Date().getTime() / 1000;
+                console.log("length = " + nativeAPP.getData("SomeKey0") );
+                console.log("length = " + nativeAPP.getData("SomeKey1") );
+                console.log("length = " + nativeAPP.getData("SomeKey2") );
+                console.log("length = " + nativeAPP.getData("SomeKey3") );
+                nativeAPP.putData("SomeKey3", "okyokyoky");
+                console.log("length = " + nativeAPP.getData("SomeKey5") );
+                console.log("length = " + nativeAPP.getData("SomeKey6") );
+                console.log("length = " + nativeAPP.getData("SomeKey7") );
+                console.log("length = " + nativeAPP.getData("SomeKey8") );
+                console.log("length = " + nativeAPP.getData("SomeKey9") );
+                console.log("length = " + nativeAPP.getData("SomeKey3") );
+                console.log("its first message = " + (-1*(seconds - (new Date().getTime() / 1000))));
+
+
+
+            }
+        </script>
+</head>
+<body onload="load()">
+
+<div id="data">
+
+</div>
+</body>
+</html>

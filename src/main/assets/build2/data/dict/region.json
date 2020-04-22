@@ -1,0 +1,1430 @@
+[
+	{
+		"region_id" : 0,
+		"region_name_ua" : "Україна",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 1,
+		"region_name_ua" : "Автономна Республіка Крим",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : 1
+	},
+	{
+		"region_id" : 2,
+		"region_name_ua" : "без громадянства",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 5,
+		"region_name_ua" : "Вінницька область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 7,
+		"region_name_ua" : "Волинська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 12,
+		"region_name_ua" : "Дніпропетровська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 14,
+		"region_name_ua" : "Донецька область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : 1
+	},
+	{
+		"region_id" : 18,
+		"region_name_ua" : "Житомирська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 21,
+		"region_name_ua" : "Закарпатська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 23,
+		"region_name_ua" : "Запорізька область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 26,
+		"region_name_ua" : "Івано-Франківська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 32,
+		"region_name_ua" : "Київська область",
+		"region_parent_id" : 0,
+		"region_trial" : 1,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 35,
+		"region_name_ua" : "Кіровоградська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 44,
+		"region_name_ua" : "Луганська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : 1
+	},
+	{
+		"region_id" : 46,
+		"region_name_ua" : "Львівська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 48,
+		"region_name_ua" : "Миколаївська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 51,
+		"region_name_ua" : "Одеська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 53,
+		"region_name_ua" : "Полтавська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 56,
+		"region_name_ua" : "Рівненська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 59,
+		"region_name_ua" : "Сумська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 61,
+		"region_name_ua" : "Тернопільська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 63,
+		"region_name_ua" : "Харківська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 65,
+		"region_name_ua" : "Херсонська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 68,
+		"region_name_ua" : "Хмельницька область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 71,
+		"region_name_ua" : "Черкаська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 73,
+		"region_name_ua" : "Чернівецька область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 74,
+		"region_name_ua" : "Чернігівська область",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 80,
+		"region_name_ua" : "Київ",
+		"region_parent_id" : 0,
+		"region_trial" : 1,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 85,
+		"region_name_ua" : "Севастополь",
+		"region_parent_id" : 0,
+		"region_trial" : null,
+		"region_occupied" : 1
+	},
+	{
+		"region_id" : 121,
+		"region_name_ua" : "Азербайджан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 122,
+		"region_name_ua" : "Білорусь",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 123,
+		"region_name_ua" : "Вірменія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 124,
+		"region_name_ua" : "Грузія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 125,
+		"region_name_ua" : "Естонія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 126,
+		"region_name_ua" : "Казахстан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 127,
+		"region_name_ua" : "Киргизстан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 128,
+		"region_name_ua" : "Латвія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 129,
+		"region_name_ua" : "Литва",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 140,
+		"region_name_ua" : "Молдова, Республіка",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 141,
+		"region_name_ua" : "Російська Федерація",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 142,
+		"region_name_ua" : "Таджикистан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 143,
+		"region_name_ua" : "Туркменистан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 144,
+		"region_name_ua" : "Узбекистан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 150,
+		"region_name_ua" : "Австрія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 151,
+		"region_name_ua" : "Албанія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 152,
+		"region_name_ua" : "Бельгія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 153,
+		"region_name_ua" : "Болгарія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 154,
+		"region_name_ua" : "Боснія і Герцеговина",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 155,
+		"region_name_ua" : "Святий Престол (Держава-місто Ватикан)",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 156,
+		"region_name_ua" : "Греція",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 157,
+		"region_name_ua" : "Данія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 158,
+		"region_name_ua" : "Ірландія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 159,
+		"region_name_ua" : "Ісландія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 160,
+		"region_name_ua" : "Іспанія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 161,
+		"region_name_ua" : "Італія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 162,
+		"region_name_ua" : "Ліхтенштейн",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 163,
+		"region_name_ua" : "Люксембург",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 164,
+		"region_name_ua" : "Мальта",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 165,
+		"region_name_ua" : "Нідерланди",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 166,
+		"region_name_ua" : "Німеччина",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 167,
+		"region_name_ua" : "Норвегія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 168,
+		"region_name_ua" : "Польща",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 169,
+		"region_name_ua" : "Португалія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 170,
+		"region_name_ua" : "Румунія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 171,
+		"region_name_ua" : "Сан-Маріно",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 172,
+		"region_name_ua" : "Словаччина",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 173,
+		"region_name_ua" : "Словенія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 174,
+		"region_name_ua" : "Велика Британія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 175,
+		"region_name_ua" : "Угорщина",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 176,
+		"region_name_ua" : "Фінляндія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 177,
+		"region_name_ua" : "Франція",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 178,
+		"region_name_ua" : "Хорватія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 179,
+		"region_name_ua" : "Чехія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 180,
+		"region_name_ua" : "Швейцарія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 181,
+		"region_name_ua" : "Швеція",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 183,
+		"region_name_ua" : "Інші держави Європи",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 184,
+		"region_name_ua" : "Республіка Македонія (колишня Югославська республіка)",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 185,
+		"region_name_ua" : "Монако",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 186,
+		"region_name_ua" : "Сербія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 187,
+		"region_name_ua" : "Чорногорія",
+		"region_parent_id" : 900,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 200,
+		"region_name_ua" : "Аргентина",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 201,
+		"region_name_ua" : "Багамські Острови",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 202,
+		"region_name_ua" : "Барбадос",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 203,
+		"region_name_ua" : "Беліз",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 204,
+		"region_name_ua" : "Болівія",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 205,
+		"region_name_ua" : "Бразилія",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 206,
+		"region_name_ua" : "Венесуела",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 207,
+		"region_name_ua" : "Гаїті",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 208,
+		"region_name_ua" : "Гватемала",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 209,
+		"region_name_ua" : "Гондурас",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 210,
+		"region_name_ua" : "Гренландія",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 211,
+		"region_name_ua" : "Гренада",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 212,
+		"region_name_ua" : "Домініканська Республіка",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 213,
+		"region_name_ua" : "Еквадор",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 214,
+		"region_name_ua" : "Канада",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 215,
+		"region_name_ua" : "Колумбія",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 216,
+		"region_name_ua" : "Коста-Рика",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 217,
+		"region_name_ua" : "Куба",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 218,
+		"region_name_ua" : "Мартиніка",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 219,
+		"region_name_ua" : "Мексика",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 220,
+		"region_name_ua" : "Нікарагуа",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 221,
+		"region_name_ua" : "Панама",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 222,
+		"region_name_ua" : "Парагвай",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 223,
+		"region_name_ua" : "Перу",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 224,
+		"region_name_ua" : "Сальвадор",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 225,
+		"region_name_ua" : "США",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 226,
+		"region_name_ua" : "Сурінам",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 227,
+		"region_name_ua" : "Уругвай",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 228,
+		"region_name_ua" : "Чилі",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 229,
+		"region_name_ua" : "Ямайка",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 230,
+		"region_name_ua" : "Інші держави Америки",
+		"region_parent_id" : 901,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 300,
+		"region_name_ua" : "Алжир",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 301,
+		"region_name_ua" : "Ангола",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 302,
+		"region_name_ua" : "Бенін",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 303,
+		"region_name_ua" : "Ботсвана",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 304,
+		"region_name_ua" : "Бурунді",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 305,
+		"region_name_ua" : "Гана",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 306,
+		"region_name_ua" : "Гамбія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 307,
+		"region_name_ua" : "Гвінея",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 308,
+		"region_name_ua" : "Гвінея-Бісау",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 309,
+		"region_name_ua" : "Джибуті",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 310,
+		"region_name_ua" : "Конго, Демократична Республіка",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 311,
+		"region_name_ua" : "Замбія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 312,
+		"region_name_ua" : "Західна Сахара",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 313,
+		"region_name_ua" : "Зімбабве",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 314,
+		"region_name_ua" : "Екваторіальна Гвінея",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 315,
+		"region_name_ua" : "Ефіопія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 316,
+		"region_name_ua" : "Єгипет",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 317,
+		"region_name_ua" : "Камерун",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 318,
+		"region_name_ua" : "Кенія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 319,
+		"region_name_ua" : "Конго",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 320,
+		"region_name_ua" : "Ліберія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 321,
+		"region_name_ua" : "Лівія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 322,
+		"region_name_ua" : "Мадагаскар",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 323,
+		"region_name_ua" : "Малі",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 324,
+		"region_name_ua" : "Мавританія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 325,
+		"region_name_ua" : "Марокко",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 326,
+		"region_name_ua" : "Мозамбік",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 327,
+		"region_name_ua" : "Намібія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 328,
+		"region_name_ua" : "Нігер",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 329,
+		"region_name_ua" : "Нігерія",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 330,
+		"region_name_ua" : "Південна Африка",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 331,
+		"region_name_ua" : "Руанда",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 332,
+		"region_name_ua" : "Сенегал",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 333,
+		"region_name_ua" : "Сейшельські Острови",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 334,
+		"region_name_ua" : "Сомалі",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 335,
+		"region_name_ua" : "Судан",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 336,
+		"region_name_ua" : "Танзанія, Об'єднана Республіка",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 337,
+		"region_name_ua" : "Того",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 338,
+		"region_name_ua" : "Туніс",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 339,
+		"region_name_ua" : "Уганда",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 340,
+		"region_name_ua" : "Інші держави Африки",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 341,
+		"region_name_ua" : "Габон",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 342,
+		"region_name_ua" : "Чад",
+		"region_parent_id" : 903,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 400,
+		"region_name_ua" : "Афганістан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 401,
+		"region_name_ua" : "Бахрейн",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 402,
+		"region_name_ua" : "Бангладеш",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 403,
+		"region_name_ua" : "Бутан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 404,
+		"region_name_ua" : "В'єтнам",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 405,
+		"region_name_ua" : "Гонконг",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 406,
+		"region_name_ua" : "Ізраїль",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 407,
+		"region_name_ua" : "Індія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 408,
+		"region_name_ua" : "Індонезія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 409,
+		"region_name_ua" : "Ірак",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 410,
+		"region_name_ua" : "Іран, Ісламська Республіка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 411,
+		"region_name_ua" : "Ємен",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 412,
+		"region_name_ua" : "Йорданія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 413,
+		"region_name_ua" : "Китай",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 414,
+		"region_name_ua" : "Корейська Народно-Демократична Республіка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 415,
+		"region_name_ua" : "Корея, Республіка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 416,
+		"region_name_ua" : "Кувейт",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 417,
+		"region_name_ua" : "Лаоська Народно-Демократична Республіка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 418,
+		"region_name_ua" : "Ліван",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 419,
+		"region_name_ua" : "Малайзія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 420,
+		"region_name_ua" : "Монголія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 421,
+		"region_name_ua" : "Непал",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 422,
+		"region_name_ua" : "Об'єднані Арабські Емірати",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 423,
+		"region_name_ua" : "Оман",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 424,
+		"region_name_ua" : "Палестина ",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 425,
+		"region_name_ua" : "Пакистан",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 426,
+		"region_name_ua" : "Саудівська Аравія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 427,
+		"region_name_ua" : "Сингапур",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 428,
+		"region_name_ua" : "Сирійська Арабська Республіка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 429,
+		"region_name_ua" : "Туреччина",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 430,
+		"region_name_ua" : "Філіппіни",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 431,
+		"region_name_ua" : "Шрі-Ланка",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 432,
+		"region_name_ua" : "Японія",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 433,
+		"region_name_ua" : "Інші держави Азії",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 434,
+		"region_name_ua" : "Камбоджа",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 435,
+		"region_name_ua" : "Кіпр",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 436,
+		"region_name_ua" : "Таїланд",
+		"region_parent_id" : 902,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 500,
+		"region_name_ua" : "Австралія",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 501,
+		"region_name_ua" : "Нова Зеландія",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 502,
+		"region_name_ua" : "Нова Каледонія",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 503,
+		"region_name_ua" : "Французька Полінезія",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 504,
+		"region_name_ua" : "Соломонові острови",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 505,
+		"region_name_ua" : "Фіджі",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 506,
+		"region_name_ua" : "Інші держави Австралії та Океанії",
+		"region_parent_id" : 904,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 900,
+		"region_name_ua" : "Держави Європи",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 901,
+		"region_name_ua" : "Держави Америки",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 902,
+		"region_name_ua" : "Держави Азії",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 903,
+		"region_name_ua" : "Держави Африки",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 904,
+		"region_name_ua" : "Держави Австралії та Океанії",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	},
+	{
+		"region_id" : 999,
+		"region_name_ua" : "не вказали і не повинні вказувати",
+		"region_parent_id" : null,
+		"region_trial" : null,
+		"region_occupied" : null
+	}
+]
